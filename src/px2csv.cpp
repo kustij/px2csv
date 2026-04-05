@@ -8,10 +8,10 @@
 #include <unordered_map>
 #include <algorithm>
 #include <fstream>
-#include "pxconvert.h"
+#include "px2csv.h"
 #include "utils.h"
 
-void pxconvert::convert_stream_binary(std::istream &in, std::ostream &out, bool include_codes, bool include_labels)
+void px2csv::convert_stream_binary(std::istream &in, std::ostream &out, bool include_codes, bool include_labels)
 {
     // Read the entire input stream into a buffer
     std::string raw_data((std::istreambuf_iterator<char>(in)), std::istreambuf_iterator<char>());
@@ -199,11 +199,7 @@ void pxconvert::convert_stream_binary(std::istream &in, std::ostream &out, bool 
     }
 }
 
-// True streaming PX-to-CSV conversion (single pass, no seek/tell)
-
-// Internal: all logic is in convert_stream_binary. No other methods needed.
-
-void pxconvert::convert(const std::string &input_path, const std::string &output_path, bool include_codes, bool include_labels)
+void px2csv::convert(const std::string &input_path, const std::string &output_path, bool include_codes, bool include_labels)
 {
     std::ifstream in(input_path, std::ios::binary);
     if (!in)

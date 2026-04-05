@@ -1,9 +1,9 @@
 import os
 import pytest
-from pxconvert import convert
+from px2csv import convert
 
 
-def test_pxconvert_file_to_file():
+def test_px2csv_file_to_file():
     """Test PX to CSV conversion using file paths (minimal interface)."""
     px_path = os.path.join(os.path.dirname(__file__), "../examples/sample.px")
     output_path = os.path.abspath(
@@ -14,7 +14,7 @@ def test_pxconvert_file_to_file():
     assert os.path.getsize(output_path) > 0
 
 
-def test_pxconvert_stream_to_stream():
+def test_px2csv_stream_to_stream():
     """Test PX to CSV conversion using file-like objects (minimal interface)."""
     import io
 

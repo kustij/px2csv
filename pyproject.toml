@@ -3,7 +3,7 @@ requires = ["setuptools>=64", "wheel", "pybind11"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pxconvert"
+name = "px2csv"
 version = "0.1.0"
 description = "PX file converter with Azure Blob streaming support"
 requires-python = ">=3.7"

@@ -3,8 +3,8 @@ import pybind11
 
 ext_modules = [
     Extension(
-        "pxconvert.pxconvert",  # pxconvert/pxconvert.so
-        ["src/pybind.cpp", "src/pxconvert.cpp"],
+        "px2csv.px2csv",  # px2csv/px2csv.so
+        ["src/pybind.cpp", "src/px2csv.cpp"],
         include_dirs=[
             pybind11.get_include(),
             "src",
@@ -15,10 +15,10 @@ ext_modules = [
 ]
 
 setup(
-    name="pxconvert",
+    name="px2csv",
     version="0.1.0",
-    description="PX file converter with Azure Blob streaming support",
-    packages=["pxconvert"],
+    description="Convert PX files to CSV",
+    packages=["px2csv"],
     ext_modules=ext_modules,
     zip_safe=False,
 )

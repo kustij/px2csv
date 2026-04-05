@@ -1,13 +1,13 @@
-# PxConvert
+# px2csv
 
-Fast and memory-efficient Python/C++ converter for PX (PC-Axis) files.
+Convert PX (PC-Axis) files to CSV fast and memory-efficiently in Python.
 
-Currently we are supporting only CSV files in UTF-8 format.
+We currently support only UTF-8 encoded PX files.
 
 ### Convert using file paths
 
 ```python
-from pxconvert import convert
+from px2csv import convert
 convert("examples/sample.px", "examples/sample.csv", include_codes=True, include_labels=True)
 ```
 
@@ -15,7 +15,7 @@ convert("examples/sample.px", "examples/sample.csv", include_codes=True, include
 
 ```python
 import io
-from pxconvert import convert
+from px2csv import convert
 with open("examples/sample.px", "rb") as fin, open("examples/sample.csv", "wb") as fout:
 	convert(fin, fout, include_codes=True, include_labels=True)
 ```

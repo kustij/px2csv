@@ -2,11 +2,11 @@
 
 #include <pybind11/pybind11.h>
 #include <pybind11/iostream.h>
-#include "pxconvert.h"
+#include "px2csv.h"
 
 namespace py = pybind11;
 
-PYBIND11_MODULE(pxconvert, m)
+PYBIND11_MODULE(px2csv, m)
 {
     m.def("convert", [](py::object input, py::object output, bool include_codes = false, bool include_labels = true)
           {
@@ -14,7 +14,7 @@ PYBIND11_MODULE(pxconvert, m)
         if (py::isinstance<py::str>(input) && py::isinstance<py::str>(output)) {
             std::string in_path = input.cast<std::string>();
             std::string out_path = output.cast<std::string>();
-            pxconvert::convert(in_path, out_path, include_codes, include_labels);
+            px2csv::convert(in_path, out_path, include_codes, include_labels);
             return;
         }
         // Otherwise, treat as file-like objects (must have read()/write())
@@ -49,7 +49,7 @@ PYBIND11_MODULE(pxconvert, m)
         };
         pyostreambuf obuf(output.attr("write"));
         std::ostream out_stream(&obuf);
-        pxconvert::convert_stream_binary(in_stream, out_stream, include_codes, include_labels); }, py::arg("input"), py::arg("output"), py::arg("include_codes") = false, py::arg("include_labels") = true,
+        px2csv::convert_stream_binary(in_stream, out_stream, include_codes, include_labels); }, py::arg("input"), py::arg("output"), py::arg("include_codes") = false, py::arg("include_labels") = true,
           R"pbdoc(
         Convert a PX (PC-Axis) file to CSV.
         Args:

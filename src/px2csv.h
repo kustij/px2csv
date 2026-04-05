@@ -3,7 +3,7 @@
 #include <istream>
 #include <ostream>
 
-class pxconvert
+class px2csv
 {
 public:
     // Streaming: binary stream to text stream (decodes to UTF-8)
