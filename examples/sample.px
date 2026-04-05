@@ -1,0 +1,676 @@
+CHARSET="ANSI";
+AXIS-VERSION="2013";
+CODEPAGE="iso-8859-15";
+LANGUAGE="fi";
+LANGUAGES="fi","sv","en";
+CREATION-DATE="20191014 08:00";
+NEXT-UPDATE="20261125 08:00";
+TABLEID="statfin_salatuo_pxt_12b4";
+SYNONYMS="sähköntuotanto";
+DECIMALS=1;
+SHOWDECIMALS=0;
+MATRIX="001_12b4_2024";
+SUBJECT-CODE="SALATUO";
+SUBJECT-AREA="salatuo";
+SUBJECT-AREA[sv]="salatuo";
+SUBJECT-AREA[en]="salatuo";
+COPYRIGHT=YES;
+DESCRIPTION="12b4 -- Sähkön tuotanto energialähteittäin ja kokonaiskulutus, 2000-2024";
+DESCRIPTION[sv]="12b4 -- Elproduktion av energikällor och totalkonsumtion, 2000-2024";
+DESCRIPTION[en]="12b4 -- Electricity production by source and total consumption, 2000-2024";
+TITLE="Sähkön tuotanto ja kokonaiskulutus muuttujina Vuosi, Sähkön tuotanto ja kulutus, GWh ja Tiedot";
+TITLE[sv]="Elproduktion och totalkonsumtion efter År, Elproduktion och konsumtion, GWh och Uppgifter";
+TITLE[en]="Electricity production and toal consumption by Year, Electricity production and consumption, GWh and Information";
+CONTENTS="Sähkön tuotanto ja kokonaiskulutus";
+CONTENTS[sv]="Elproduktion och totalkonsumtion";
+CONTENTS[en]="Electricity production and toal consumption";
+UNITS="";
+UNITS[sv]="";
+UNITS[en]="";
+STUB="Vuosi","Sähkön tuotanto ja kulutus, GWh";
+STUB[sv]="År","Elproduktion och konsumtion, GWh";
+STUB[en]="Year","Electricity production and consumption, GWh";
+HEADING="Tiedot";
+HEADING[sv]="Uppgifter";
+HEADING[en]="Information";
+CONTVARIABLE="Tiedot";
+CONTVARIABLE[sv]="Uppgifter";
+CONTVARIABLE[en]="Information";
+VALUES("Vuosi")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[sv]("År")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES[en]("Year")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+VALUES("Sähkön tuotanto ja kulutus, GWh")="YDINVOIMA","Öljy (Fossiilinen polttoaine)",
+"Kivihiili (Fossiilinen polttoaine)","Maakaasu (Fossiilinen polttoaine)",
+"Muut fossiiliset (Fossiilinen polttoaine)","FOSSIILISET POLTTOAINEET YHTEENSÄ","Turve",
+"FOSSIILISET JA TURVE YHTEENSÄ","Vesivoima (Uusiutuva energialähde)",
+"Tuulivoima (Uusiutuva energialähde)","Aurinkovoima (Uusiutuva energialähde)",
+"Mustalipeä (Uusiutuva energialähde)","Muut puupolttoaineet (Uusiutuva energialähde)",
+"Muut uusiutuvat (Uusiutuva energialähde)","UUSIUTUVAT POLTTOAINEET YHTEENSÄ",
+"UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ","Muut energialähteet","SÄHKÖN TUOTANTO YHTEENSÄ",
+"Sähkön nettotuonti","SÄHKÖN KOKONAISKULUTUS";
+VALUES[sv]("Elproduktion och konsumtion, GWh")="KÄRNKRAFT","Olja (Fossila bränslen)",
+"Stenkol (Fossila bränslen)","Naturgas (Fossila bränslen)","Övriga fossila",
+"FOSSILA BRÄNSLEN TOTALT","Torv","FOSSILA BRÄNSLEN OCH TORV TOTALT",
+"Vattenkraft (Förnybara energikälla)","Vindkraft (Förnybara energikälla)",
+"Solkraft (Förnybara energikälla)","Svartlut (Förnybara energikälla)",
+"Övriga träbränsle (Förnybara energikälla)","Övriga förnybara","TOTALT FÖRNYBARA BRÄNSLEN",
+"FÖRNYBARA ENERGIKÄLLOR TOTALT","Övriga energikällor","ELPRODUKTIONEN TOTALT","Nettoimporten av el",
+"TOTALT KONSUMTIONEN AV EL";
+VALUES[en]("Electricity production and consumption, GWh")="NUCLEAR POWER","Oil (Fossil fuels)",
+"Hard coal (Fossil fuels)","Natural gas (Fossil fuels)","Other fossil fuels","FOSSIL FUELS TOTAL",
+"Peat","FOSSIL FUELS AND PEAT TOTAL","Hydro power (Renewable energy source)",
+"Wind power (Renewable energy source)","Solar power (Renewable energy source)",
+"Black liquor (Renewable energy source)","Other wood fuels (Renewable energy source)",
+"Other renewables","TOTAL RENEWABLE FUELS","RENEWABLE ENERGY SOURCES TOTAL","Other energy sources",
+"TOTAL PRODUCTION OF ELECTRICITY","Net imports of electricity","TOTAL CONSUMPTION OF ELECTRICITY";
+VALUES("Tiedot")="Määrä, GWh","Vuosimuutos %","Osuus kokonaiskulutuksesta %",
+"Osuus kokonaistuotannosta, %";
+VALUES[sv]("Uppgifter")="Mängd, GWh","Årsförändrings %","Andel av totalkonsumtion %",
+"Andel av totalproduktion, %";
+VALUES[en]("Information")="Quantity, GWh","Annual change %","Share of total consumption %",
+"Share of total production, %";
+TIMEVAL("Vuosi")=TLIST(A1),"2000","2001","2002","2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023",
+"2024";
+TIMEVAL[sv]("År")=TLIST(A1),"2000","2001","2002","2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023",
+"2024";
+TIMEVAL[en]("Year")=TLIST(A1),"2000","2001","2002","2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023",
+"2024";
+CODES("Vuosi")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES[sv]("År")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011",
+"2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES[en]("Year")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013","2014","2015","2016","2017","2018","2019","2020","2021","2022","2023","2024";
+CODES("Sähkön tuotanto ja kulutus, GWh")="01","02","03","04","05","06","07","08","09","10","11",
+"12","13","14","15","16","17","18","19","20";
+CODES[sv]("Elproduktion och konsumtion, GWh")="01","02","03","04","05","06","07","08","09","10",
+"11","12","13","14","15","16","17","18","19","20";
+CODES[en]("Electricity production and consumption, GWh")="01","02","03","04","05","06","07","08",
+"09","10","11","12","13","14","15","16","17","18","19","20";
+CODES("Tiedot")="arvogwh","vv_muutos","osuuskk","osuuskt";
+CODES[sv]("Uppgifter")="arvogwh","vv_muutos","osuuskk","osuuskt";
+CODES[en]("Information")="arvogwh","vv_muutos","osuuskk","osuuskt";
+VARIABLE-TYPE("Vuosi")="Time";
+VARIABLE-TYPE[sv]("År")="Time";
+VARIABLE-TYPE[en]("Year")="Time";
+VARIABLE-TYPE("Sähkön tuotanto ja kulutus, GWh")="Classificatory";
+VARIABLE-TYPE[sv]("Elproduktion och konsumtion, GWh")="Classificatory";
+VARIABLE-TYPE[en]("Electricity production and consumption, GWh")="Classificatory";
+PRECISION("Tiedot","Vuosimuutos %")=1;
+PRECISION[sv]("Uppgifter","Årsförändrings %")=1;
+PRECISION[en]("Information","Annual change %")=1;
+PRECISION("Tiedot","Osuus kokonaiskulutuksesta %")=1;
+PRECISION[sv]("Uppgifter","Andel av totalkonsumtion %")=1;
+PRECISION[en]("Information","Share of total consumption %")=1;
+PRECISION("Tiedot","Osuus kokonaistuotannosta, %")=1;
+PRECISION[sv]("Uppgifter","Andel av totalproduktion, %")=1;
+PRECISION[en]("Information","Share of total production, %")=1;
+LAST-UPDATED("Määrä, GWh")="20251127 08:00";
+LAST-UPDATED[sv]("Mängd, GWh")="20251127 08:00";
+LAST-UPDATED[en]("Quantity, GWh")="20251127 08:00";
+LAST-UPDATED("Vuosimuutos %")="20251127 08:00";
+LAST-UPDATED[sv]("Årsförändrings %")="20251127 08:00";
+LAST-UPDATED[en]("Annual change %")="20251127 08:00";
+LAST-UPDATED("Osuus kokonaiskulutuksesta %")="20251127 08:00";
+LAST-UPDATED[sv]("Andel av totalkonsumtion %")="20251127 08:00";
+LAST-UPDATED[en]("Share of total consumption %")="20251127 08:00";
+LAST-UPDATED("Osuus kokonaistuotannosta, %")="20251127 08:00";
+LAST-UPDATED[sv]("Andel av totalproduktion, %")="20251127 08:00";
+LAST-UPDATED[en]("Share of total production, %")="20251127 08:00";
+UNITS("Määrä, GWh")="GWh";
+UNITS[sv]("Mängd, GWh")="GWh";
+UNITS[en]("Quantity, GWh")="GWh";
+UNITS("Vuosimuutos %")="%";
+UNITS[sv]("Årsförändrings %")="%";
+UNITS[en]("Annual change %")="%";
+UNITS("Osuus kokonaiskulutuksesta %")="%";
+UNITS[sv]("Andel av totalkonsumtion %")="%";
+UNITS[en]("Share of total consumption %")="%";
+UNITS("Osuus kokonaistuotannosta, %")="%";
+UNITS[sv]("Andel av totalproduktion, %")="%";
+UNITS[en]("Share of total production, %")="%";
+CONTACT("Määrä, GWh")="<A HREF='https://stat.fi/tilasto/salatuo' TARGET=_blank>Tilaston kotisivu</A>";
+CONTACT[sv]("Mängd, GWh")="<A HREF='https://stat.fi/sv/statistik/salatuo' TARGET=_blank>Statistikens webbsidor</A>";
+CONTACT[en]("Quantity, GWh")="<A HREF='https://stat.fi/en/statistics/salatuo' TARGET=_blank>Statistics' homepage</A>";
+CONTACT("Vuosimuutos %")="<A HREF='https://stat.fi/tilasto/salatuo' TARGET=_blank>Tilaston kotisivu</A>";
+CONTACT[sv]("Årsförändrings %")="<A HREF='https://stat.fi/sv/statistik/salatuo' TARGET=_blank>Statistikens webbsidor</A>";
+CONTACT[en]("Annual change %")="<A HREF='https://stat.fi/en/statistics/salatuo' TARGET=_blank>Statistics' homepage</A>";
+CONTACT("Osuus kokonaiskulutuksesta %")="<A HREF='https://stat.fi/tilasto/salatuo' TARGET=_blank>Tilaston kotisivu</A>";
+CONTACT[sv]("Andel av totalkonsumtion %")="<A HREF='https://stat.fi/sv/statistik/salatuo' TARGET=_blank>Statistikens webbsidor</A>";
+CONTACT[en]("Share of total consumption %")="<A HREF='https://stat.fi/en/statistics/salatuo' TARGET=_blank>Statistics' homepage</A>";
+CONTACT("Osuus kokonaistuotannosta, %")="<A HREF='https://stat.fi/tilasto/salatuo' TARGET=_blank>Tilaston kotisivu</A>";
+CONTACT[sv]("Andel av totalproduktion, %")="<A HREF='https://stat.fi/sv/statistik/salatuo' TARGET=_blank>Statistikens webbsidor</A>";
+CONTACT[en]("Share of total production, %")="<A HREF='https://stat.fi/en/statistics/salatuo' TARGET=_blank>Statistics' homepage</A>";
+SOURCE="Tilastokeskus, sähkön ja lämmön tuotanto";
+SOURCE[sv]="Statistikcentralen, el- och värmeproduktion";
+SOURCE[en]="Statistics Finland, production of electricity and heat";
+META-ID("Sähkön tuotanto ja kulutus, GWh")="SCALE-TYPE=nominal";
+META-ID[sv]("Elproduktion och konsumtion, GWh")="SCALE-TYPE=nominal";
+META-ID[en]("Electricity production and consumption, GWh")="SCALE-TYPE=nominal";
+OFFICIAL-STATISTICS=YES;
+NOTE="<A HREF='https://stat.fi/tilasto/dokumentaatio/salatuo' TARGET=_blank>Tilaston dokumentaatio</A>";
+NOTE[sv]="<A HREF='https://stat.fi/sv/statistik/dokumentation/salatuo' TARGET=_blank>Dokumentation för statistiken</A>";
+NOTE[en]="<A HREF='https://stat.fi/en/statistics/documentation/salatuo' TARGET=_blank>Documentation of statistics</A>";
+NOTE("Sähkön tuotanto ja kulutus, GWh")="Sähkön tuotanto ja kulutus";
+NOTE[sv]("Elproduktion och konsumtion, GWh")="Elproduktion och konsumtion";
+NOTE[en]("Electricity production and consumption, GWh")="Electricity production and consumption";
+VALUENOTE("Tiedot","Määrä, GWh")="Tuotannon tai hankinnan määrä GWh";
+VALUENOTE[sv]("Uppgifter","Mängd, GWh")="Mängd, GWh";
+VALUENOTE[en]("Information","Quantity, GWh")="Quantity, GWh";
+VALUENOTE("Tiedot","Vuosimuutos %")="Vuosimuutos prosenttia";
+VALUENOTE[sv]("Uppgifter","Årsförändrings %")="Årsförändrings %";
+VALUENOTE[en]("Information","Annual change %")="Annual change %";
+VALUENOTE("Tiedot","Osuus kokonaiskulutuksesta %")="Sähkön hankintamuodon prosenttiosuus sähkön kokonaiskulutuksesta.";
+VALUENOTE[sv]("Uppgifter","Andel av totalkonsumtion %")="Andel av totalkonsumtion %";
+VALUENOTE[en]("Information","Share of total consumption %")="Share of total consumption %";
+VALUENOTE("Tiedot","Osuus kokonaistuotannosta, %")="Osuus sähkön kokonaistuotannosta";
+VALUENOTE[sv]("Uppgifter","Andel av totalproduktion, %")="Del av totaelproduktion";
+VALUENOTE[en]("Information","Share of total production, %")="Share of total electricity production";
+MADE-WITH="PxPro";
+DATA=
+21575 "." 27.3 32.1 
+541 "." 0.7 0.8 
+7974 "." 10.1 11.9 
+9856 "." 12.4 14.6 
+723 "." 0.9 1.1 
+19094 "." 24.1 28.4 
+3690 "." 4.7 5.5 
+22783 "." 28.8 33.9 
+14453 "." 18.3 21.5 
+77 "." 0.1 0.1 
+2 "." 0 0 
+5127 "." 6.5 7.6 
+2900 "." 3.7 4.3 
+133 "." 0.2 0.2 
+8159 "." 10.3 12.1 
+22690 "." 28.7 33.7 
+241 "." 0.3 0.4 
+67289 "." 85 100 
+11880 "." 15 "." 
+79169 "." 100 "." 
+21854 1.3 26.9 30.7 
+610 12.8 0.8 0.9 
+9944 24.7 12.2 14 
+11182 13.5 13.8 15.7 
+717 -0.8 0.9 1 
+22453 17.6 27.7 31.5 
+5797 57.1 7.1 8.1 
+28249 24 34.8 39.7 
+13018 -9.9 16 18.3 
+70 -9.1 0.1 0.1 
+2 0 0 0 
+4765 -7.1 5.9 6.7 
+2863 -1.3 3.5 4 
+174 30.8 0.2 0.2 
+7801 -4.4 9.6 11 
+20891 -7.9 25.7 29.3 
+244 1.2 0.3 0.3 
+71238 5.9 87.7 100 
+9959 -16.2 12.3 "." 
+81197 2.6 100 "." 
+21395 -2.1 25.6 29.9 
+836 37 1 1.2 
+11837 19 14.2 16.5 
+11274 0.8 13.5 15.7 
+715 -0.3 0.9 1 
+24662 9.8 29.5 34.4 
+6142 6 7.4 8.6 
+30804 9 36.9 43 
+10623 -18.4 12.7 14.8 
+63 -10 0.1 0.1 
+2 0 0 0 
+5140 7.9 6.2 7.2 
+3174 10.9 3.8 4.4 
+172 -1.1 0.2 0.2 
+8486 8.8 10.2 11.8 
+19174 -8.2 22.9 26.8 
+258 5.7 0.3 0.4 
+71631 0.6 85.7 100 
+11925 19.7 14.3 "." 
+83556 2.9 100 "." 
+21830 2 25.6 27.2 
+910 8.9 1.1 1.1 
+17923 51.4 21 22.3 
+13435 19.2 15.8 16.7 
+728 1.8 0.9 0.9 
+32996 33.8 38.7 41 
+6831 11.2 8 8.5 
+39827 29.3 46.7 49.5 
+9455 -11 11.1 11.8 
+92 46 0.1 0.1 
+2 0 0 0 
+5255 2.2 6.2 6.5 
+3354 5.7 3.9 4.2 
+219 27.3 0.3 0.3 
+8827 4 10.4 11 
+18376 -4.2 21.6 22.9 
+361 39.9 0.4 0.4 
+80395 12.2 94.3 100 
+4852 -59.3 5.7 "." 
+85247 2 100 "." 
+21814 -0.1 25.1 26.5 
+568 -37.6 0.7 0.7 
+15411 -14 17.7 18.8 
+12371 -7.9 14.2 15.1 
+698 -4.1 0.8 0.8 
+29048 -12 33.4 35.3 
+6120 -10.4 7 7.4 
+35167 -11.7 40.4 42.8 
+14865 57.2 17.1 18.1 
+120 30.4 0.1 0.1 
+2 0 0 0 
+5778 10 6.6 7 
+3815 13.7 4.4 4.6 
+259 18.3 0.3 0.3 
+9852 11.6 11.3 12 
+24840 35.2 28.5 30.2 
+366 1.4 0.4 0.4 
+82187 2.2 94.4 100 
+4870 0.4 5.6 "." 
+87057 2.1 100 "." 
+22356 2.5 26.4 33 
+452 -20.4 0.5 0.7 
+6069 -60.6 7.2 9 
+10896 -11.9 12.9 16.1 
+780 11.7 0.9 1.2 
+18197 -37.4 21.5 26.9 
+4208 -31.2 5 6.2 
+22405 -36.3 26.5 33.1 
+13428 -9.7 15.9 19.8 
+168 40 0.2 0.2 
+3 50 0 0 
+5060 -12.4 6 7.5 
+3643 -4.5 4.3 5.4 
+302 16.6 0.4 0.4 
+9006 -8.6 10.6 13.3 
+22605 -9 26.7 33.4 
+305 -16.7 0.4 0.5 
+67670 -17.7 79.9 100 
+17014 249.4 20.1 "." 
+84684 -2.7 100 "." 
+22004 -1.6 24.4 28 
+439 -2.9 0.5 0.6 
+15212 150.7 16.9 19.3 
+11941 9.6 13.3 15.2 
+758 -2.8 0.8 1 
+28350 55.8 31.5 36 
+6209 47.6 6.9 7.9 
+34559 54.2 38.4 43.9 
+11313 -15.8 12.6 14.4 
+153 -8.9 0.2 0.2 
+3 0 0 0 
+5901 16.6 6.6 7.5 
+4056 11.3 4.5 5.2 
+263 -12.9 0.3 0.3 
+10219 13.5 11.3 13 
+21688 -4.1 24.1 27.6 
+391 28.2 0.4 0.5 
+78641 16.2 87.3 100 
+11401 -33 12.7 "." 
+90042 6.3 100 "." 
+22501 2.3 24.9 28.9 
+431 -1.8 0.5 0.6 
+12974 -14.7 14.4 16.7 
+10250 -14.2 11.3 13.2 
+802 5.8 0.9 1 
+24458 -13.7 27.1 31.4 
+6925 11.5 7.7 8.9 
+31382 -9.2 34.7 40.3 
+13991 23.7 15.5 18 
+188 22.9 0.2 0.2 
+4 33.3 0 0 
+5711 -3.2 6.3 7.3 
+3393 -16.3 3.8 4.4 
+328 24.7 0.4 0.4 
+9432 -7.7 10.4 12.1 
+23614 8.9 26.1 30.3 
+333 -14.8 0.4 0.4 
+77831 -1 86.1 100 
+12557 10.1 13.9 "." 
+90388 0.4 100 "." 
+22050 -2 25.3 29.6 
+617 43.2 0.7 0.8 
+7956 -38.7 9.1 10.7 
+10722 4.6 12.3 14.4 
+753 -6.1 0.9 1 
+20048 -18 23 26.9 
+4929 -28.8 5.6 6.6 
+24977 -20.4 28.6 33.5 
+16909 20.9 19.4 22.7 
+261 38.8 0.3 0.3 
+4 0 0 0 
+5312 -7 6.1 7.1 
+4200 23.8 4.8 5.6 
+360 9.8 0.4 0.5 
+9872 4.7 11.3 13.3 
+27046 14.5 31 36.3 
+423 27 0.5 0.6 
+74495 -4.3 85.4 100 
+12772 1.7 14.6 "." 
+87267 -3.5 100 "." 
+22601 2.5 27.8 32.6 
+483 -21.7 0.6 0.7 
+10408 30.8 12.8 15 
+9572 -10.7 11.8 13.8 
+587 -22 0.7 0.8 
+21049 5 25.9 30.4 
+4124 -16.3 5.1 6 
+25173 0.8 31 36.4 
+12573 -25.6 15.5 18.2 
+277 6.1 0.3 0.4 
+4 0 0 0 
+4287 -19.3 5.3 6.2 
+3612 -14 4.4 5.2 
+375 4.2 0.5 0.5 
+8274 -16.2 10.2 12 
+21128 -21.9 26 30.5 
+325 -23.2 0.4 0.5 
+69226 -7.1 85.1 100 
+12085 -5.4 14.9 "." 
+81311 -6.8 100 "." 
+21889 -3.2 25 28.3 
+442 -8.5 0.5 0.6 
+13573 30.4 15.5 17.6 
+10977 14.7 12.5 14.2 
+670 14.1 0.8 0.9 
+25663 21.9 29.3 33.2 
+5858 42 6.7 7.6 
+31521 25.2 35.9 40.8 
+12743 1.4 14.5 16.5 
+294 6.1 0.3 0.4 
+5 25 0 0 
+5333 24.4 6.1 6.9 
+4635 28.3 5.3 6 
+431 14.9 0.5 0.6 
+10400 25.7 11.9 13.5 
+23442 11 26.7 30.4 
+373 14.8 0.4 0.5 
+77225 11.6 88 100 
+10501 -13.1 12 "." 
+87726 7.9 100 "." 
+22266 1.7 26.4 31.6 
+381 -13.8 0.5 0.5 
+9134 -32.7 10.8 13 
+9202 -16.2 10.9 13.1 
+617 -7.9 0.7 0.9 
+19334 -24.7 22.9 27.5 
+5058 -13.7 6 7.2 
+24392 -22.6 28.9 34.6 
+12278 -3.6 14.6 17.4 
+481 63.6 0.6 0.7 
+5 0 0 0 
+5067 -5 6 7.2 
+5078 9.6 6 7.2 
+443 2.8 0.5 0.6 
+10588 1.8 12.6 15 
+23353 -0.4 27.7 33.2 
+410 9.9 0.5 0.6 
+70420 -8.8 83.6 100 
+13851 31.9 16.4 "." 
+84271 -3.9 100 "." 
+22063 -0.9 25.9 32.6 
+265 -30.4 0.3 0.4 
+6663 -27.1 7.8 9.8 
+6547 -28.9 7.7 9.7 
+588 -4.7 0.7 0.9 
+14063 -27.3 16.5 20.8 
+3438 -32 4 5.1 
+17501 -28.3 20.6 25.8 
+16667 35.7 19.6 24.6 
+494 2.7 0.6 0.7 
+6 20 0 0 
+5064 -0.1 5.9 7.5 
+4990 -1.7 5.9 7.4 
+492 11.1 0.6 0.7 
+10546 -0.4 12.4 15.6 
+27713 18.7 32.5 40.9 
+436 6.3 0.5 0.6 
+67714 -3.8 79.5 100 
+17443 25.9 20.5 "." 
+85157 1.1 100 "." 
+22673 2.8 27 33.2 
+205 -22.6 0.2 0.3 
+9997 50 11.9 14.6 
+6618 1.1 7.9 9.7 
+678 15.3 0.8 1 
+17498 24.4 20.8 25.6 
+2970 -13.6 3.5 4.3 
+20469 17 24.3 29.9 
+12672 -24 15.1 18.5 
+774 56.7 0.9 1.1 
+7 16.7 0 0 
+5457 7.8 6.5 8 
+5337 7 6.3 7.8 
+552 12.2 0.7 0.8 
+11346 7.6 13.5 16.6 
+24798 -10.5 29.5 36.3 
+414 -5 0.5 0.6 
+68354 0.9 81.3 100 
+15715 -9.9 18.7 "." 
+84069 -1.3 100 "." 
+22646 -0.1 27.1 34.6 
+201 -2 0.2 0.3 
+7450 -25.5 8.9 11.4 
+5386 -18.6 6.5 8.2 
+683 0.7 0.8 1 
+13719 -21.6 16.4 21 
+3194 7.5 3.8 4.9 
+16913 -17.4 20.3 25.8 
+13240 4.5 15.9 20.2 
+1107 43 1.3 1.7 
+8 14.3 0 0 
+5338 -2.2 6.4 8.2 
+5188 -2.8 6.2 7.9 
+596 8 0.7 0.9 
+11122 -2 13.3 17 
+25477 2.7 30.5 38.9 
+423 2.2 0.5 0.6 
+65459 -4.2 78.5 100 
+17966 14.3 21.5 "." 
+83425 -0.8 100 "." 
+22326 -1.4 27.1 33.7 
+187 -7 0.2 0.3 
+4821 -35.3 5.8 7.3 
+5086 -5.6 6.2 7.7 
+860 25.9 1 1.3 
+10954 -20.2 13.3 16.6 
+2895 -9.4 3.5 4.4 
+13849 -18.1 16.8 20.9 
+16584 25.3 20.1 25.1 
+2327 110.2 2.8 3.5 
+11 37.5 0 0 
+5442 1.9 6.6 8.2 
+4682 -9.8 5.7 7.1 
+627 5.2 0.8 0.9 
+10752 -3.3 13 16.3 
+29675 16.5 36 44.9 
+307 -27.4 0.4 0.5 
+66156 1.1 80.2 100 
+16337 -9.1 19.8 "." 
+82493 -1.1 100 "." 
+22280 -0.2 26.2 33.7 
+168 -10.2 0.2 0.3 
+6552 35.9 7.7 9.9 
+3643 -28.4 4.3 5.5 
+912 6 1.1 1.4 
+11275 2.9 13.2 17 
+2731 -5.7 3.2 4.1 
+14006 1.1 16.4 21.2 
+15634 -5.7 18.4 23.6 
+3068 31.8 3.6 4.6 
+22 100 0 0 
+5366 -1.4 6.3 8.1 
+4817 2.9 5.7 7.3 
+669 6.7 0.8 1 
+10851 0.9 12.7 16.4 
+29576 -0.3 34.7 44.7 
+342 11.4 0.4 0.5 
+66204 0.1 77.7 100 
+18951 16 22.3 "." 
+85155 3.2 100 "." 
+21574 -3.2 25.2 33.2 
+158 -6 0.2 0.2 
+5531 -15.6 6.5 8.5 
+3221 -11.6 3.8 5 
+893 -2.1 1 1.4 
+9802 -13.1 11.5 15.1 
+2602 -4.7 3 4 
+12404 -11.4 14.5 19.1 
+14610 -6.5 17.1 22.5 
+4795 56.3 5.6 7.4 
+49 122.7 0.1 0.1 
+5678 5.8 6.6 8.7 
+4858 0.9 5.7 7.5 
+706 5.5 0.8 1.1 
+11241 3.6 13.2 17.3 
+30695 3.8 35.9 47.2 
+368 7.6 0.4 0.6 
+65042 -1.8 76.1 100 
+20426 7.8 23.9 "." 
+85467 0.4 100 "." 
+21881 1.4 25 32.4 
+229 44.9 0.3 0.3 
+5441 -1.6 6.2 8.1 
+4088 26.9 4.7 6.1 
+1118 25.2 1.3 1.7 
+10876 11 12.4 16.1 
+3250 24.9 3.7 4.8 
+14126 13.9 16.2 20.9 
+13137 -10.1 15 19.5 
+5839 21.8 6.7 8.6 
+90 83.7 0.1 0.1 
+6502 14.5 7.4 9.6 
+4887 0.6 5.6 7.2 
+795 12.6 0.9 1.2 
+12184 8.4 13.9 18 
+31250 1.8 35.7 46.3 
+274 -25.5 0.3 0.4 
+67532 3.8 77.2 100 
+19936 -2.4 22.8 "." 
+87467 2.3 100 "." 
+22915 4.7 26.6 34.7 
+267 16.6 0.3 0.4 
+4115 -24.4 4.8 6.2 
+3767 -7.9 4.4 5.7 
+947 -15.3 1.1 1.4 
+9096 -16.4 10.6 13.8 
+2821 -13.2 3.3 4.3 
+11918 -15.6 13.8 18 
+12246 -6.8 14.2 18.5 
+6025 3.2 7 9.1 
+147 63.3 0.2 0.2 
+6750 3.8 7.8 10.2 
+5060 3.5 5.9 7.7 
+732 -7.9 0.9 1.1 
+12542 2.9 14.6 19 
+30960 -0.9 36 46.9 
+258 -5.8 0.3 0.4 
+66051 -2.2 76.7 100 
+20042 0.5 23.3 "." 
+86092 -1.6 100 "." 
+22354 -2.4 27.4 33.6 
+174 -34.8 0.2 0.3 
+2303 -44 2.8 3.5 
+3901 3.6 4.8 5.9 
+900 -5 1.1 1.4 
+7278 -20 8.9 10.9 
+1998 -29.2 2.4 3 
+9276 -22.2 11.4 13.9 
+15669 28 19.2 23.5 
+7938 31.8 9.7 11.9 
+218 48.3 0.3 0.3 
+6021 -10.8 7.4 9 
+4285 -15.3 5.2 6.4 
+617 -15.7 0.8 0.9 
+10924 -12.9 13.4 16.4 
+34750 12.2 42.5 52.2 
+216 -16.3 0.3 0.3 
+66596 0.8 81.5 100 
+15105 -24.6 18.5 "." 
+81701 -5.1 100 "." 
+22646 1.3 26 32.7 
+151 -13.2 0.2 0.2 
+2523 9.6 2.9 3.6 
+3732 -4.3 4.3 5.4 
+1165 29.4 1.3 1.7 
+7572 4 8.7 10.9 
+1952 -2.3 2.2 2.8 
+9524 2.7 10.9 13.7 
+15624 -0.3 17.9 22.5 
+8180 3 9.4 11.8 
+298 36.7 0.3 0.4 
+6298 4.6 7.2 9.1 
+5841 36.3 6.7 8.4 
+671 8.8 0.8 1 
+12809 17.3 14.7 18.5 
+36910 6.2 42.4 53.2 
+244 13 0.3 0.4 
+69324 4.1 79.6 100 
+17768 17.6 20.4 "." 
+87092 6.6 100 "." 
+24242 7 29.7 35.1 
+224 48.3 0.3 0.3 
+3252 28.9 4 4.7 
+913 -75.5 1.1 1.3 
+958 -17.8 1.2 1.4 
+5347 -29.4 6.5 7.7 
+2012 3.1 2.5 2.9 
+7360 -22.7 9 10.6 
+13337 -14.6 16.3 19.3 
+11560 41.3 14.2 16.7 
+392 31.5 0.5 0.6 
+5651 -10.3 6.9 8.2 
+5705 -2.3 7 8.3 
+667 -0.6 0.8 1 
+12023 -6.1 14.7 17.4 
+37312 1.1 45.7 54 
+229 -6.1 0.3 0.3 
+69142 -0.3 84.7 100 
+12517 -29.6 15.3 "." 
+81660 -6.2 100 "." 
+32759 35.1 40.9 41.8 
+203 -9.4 0.3 0.3 
+1478 -54.6 1.8 1.9 
+629 -31.1 0.8 0.8 
+1009 5.3 1.3 1.3 
+3319 -37.9 4.1 4.2 
+1068 -46.9 1.3 1.4 
+4387 -40.4 5.5 5.6 
+15026 12.7 18.8 19.2 
+14465 25.1 18.1 18.5 
+716 82.7 0.9 0.9 
+5382 -4.8 6.7 6.9 
+4814 -15.6 6 6.1 
+523 -21.6 0.7 0.7 
+10719 -10.8 13.4 13.7 
+40926 9.7 51.2 52.3 
+210 -8.3 0.3 0.3 
+78283 13.2 97.8 100 
+1724 -86.2 2.2 "." 
+80007 -2 100 "." 
+31128 -5 37.5 39 
+214 5.4 0.3 0.3 
+787 -46.8 0.9 1 
+748 18.9 0.9 0.9 
+974 -3.5 1.2 1.2 
+2723 -18 3.3 3.4 
+685 -35.9 0.8 0.9 
+3408 -22.3 4.1 4.3 
+14132 -5.9 17 17.7 
+20237 39.9 24.4 25.3 
+938 31 1.1 1.2 
+5181 -3.7 6.2 6.5 
+4100 -14.8 4.9 5.1 
+553 5.7 0.7 0.7 
+9834 -8.3 11.8 12.3 
+45141 10.3 54.4 56.5 
+195 -7.1 0.2 0.2 
+79872 2 96.2 100 
+3181 84.5 3.8 "." 
+83053 3.8 100 "."; 

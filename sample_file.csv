@@ -1,0 +1,2001 @@
+Vuosi_code,Vuosi_label,"Sähkön tuotanto ja kulutus, GWh_code","Sähkön tuotanto ja kulutus, GWh_label",Tiedot_code,Tiedot_label,value
+2000,2000,01,YDINVOIMA,arvogwh,"Määrä, GWh",21575
+2000,2000,01,YDINVOIMA,vv_muutos,Vuosimuutos %,
+2000,2000,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27.3
+2000,2000,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",32.1
+2000,2000,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",541
+2000,2000,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,
+2000,2000,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2000,2000,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2000,2000,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",7974
+2000,2000,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,
+2000,2000,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,10.1
+2000,2000,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",11.9
+2000,2000,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9856
+2000,2000,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,
+2000,2000,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.4
+2000,2000,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",14.6
+2000,2000,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",723
+2000,2000,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,
+2000,2000,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2000,2000,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.1
+2000,2000,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",19094
+2000,2000,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,
+2000,2000,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,24.1
+2000,2000,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",28.4
+2000,2000,07,Turve,arvogwh,"Määrä, GWh",3690
+2000,2000,07,Turve,vv_muutos,Vuosimuutos %,
+2000,2000,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,4.7
+2000,2000,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",5.5
+2000,2000,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",22783
+2000,2000,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,
+2000,2000,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,28.8
+2000,2000,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.9
+2000,2000,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",14453
+2000,2000,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,18.3
+2000,2000,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",21.5
+2000,2000,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",77
+2000,2000,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2000,2000,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2000,2000,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2
+2000,2000,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2000,2000,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2000,2000,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5127
+2000,2000,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.5
+2000,2000,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.6
+2000,2000,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2900
+2000,2000,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.7
+2000,2000,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.3
+2000,2000,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",133
+2000,2000,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,
+2000,2000,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2000,2000,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2000,2000,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",8159
+2000,2000,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,
+2000,2000,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.3
+2000,2000,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",12.1
+2000,2000,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",22690
+2000,2000,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,
+2000,2000,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,28.7
+2000,2000,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.7
+2000,2000,17,Muut energialähteet,arvogwh,"Määrä, GWh",241
+2000,2000,17,Muut energialähteet,vv_muutos,Vuosimuutos %,
+2000,2000,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2000,2000,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2000,2000,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",67289
+2000,2000,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,
+2000,2000,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,85
+2000,2000,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2000,2000,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",11880
+2000,2000,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,
+2000,2000,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,15
+2000,2000,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2000,2000,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",79169
+2000,2000,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,
+2000,2000,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2000,2000,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2001,2001,01,YDINVOIMA,arvogwh,"Määrä, GWh",21854
+2001,2001,01,YDINVOIMA,vv_muutos,Vuosimuutos %,1.3
+2001,2001,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26.9
+2001,2001,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",30.7
+2001,2001,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",610
+2001,2001,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,12.8
+2001,2001,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2001,2001,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2001,2001,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9944
+2001,2001,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,24.7
+2001,2001,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.2
+2001,2001,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",14
+2001,2001,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",11182
+2001,2001,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,13.5
+2001,2001,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,13.8
+2001,2001,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",15.7
+2001,2001,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",717
+2001,2001,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-0.8
+2001,2001,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2001,2001,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2001,2001,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",22453
+2001,2001,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,17.6
+2001,2001,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,27.7
+2001,2001,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",31.5
+2001,2001,07,Turve,arvogwh,"Määrä, GWh",5797
+2001,2001,07,Turve,vv_muutos,Vuosimuutos %,57.1
+2001,2001,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,7.1
+2001,2001,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",8.1
+2001,2001,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",28249
+2001,2001,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,24
+2001,2001,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,34.8
+2001,2001,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",39.7
+2001,2001,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13018
+2001,2001,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-9.9
+2001,2001,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,16
+2001,2001,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.3
+2001,2001,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",70
+2001,2001,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-9.1
+2001,2001,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2001,2001,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2001,2001,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2
+2001,2001,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2001,2001,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2001,2001,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2001,2001,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4765
+2001,2001,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-7.1
+2001,2001,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.9
+2001,2001,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.7
+2001,2001,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2863
+2001,2001,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-1.3
+2001,2001,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.5
+2001,2001,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4
+2001,2001,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",174
+2001,2001,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,30.8
+2001,2001,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2001,2001,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2001,2001,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",7801
+2001,2001,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-4.4
+2001,2001,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,9.6
+2001,2001,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",11
+2001,2001,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",20891
+2001,2001,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-7.9
+2001,2001,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,25.7
+2001,2001,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",29.3
+2001,2001,17,Muut energialähteet,arvogwh,"Määrä, GWh",244
+2001,2001,17,Muut energialähteet,vv_muutos,Vuosimuutos %,1.2
+2001,2001,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2001,2001,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2001,2001,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",71238
+2001,2001,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,5.9
+2001,2001,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,87.7
+2001,2001,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2001,2001,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",9959
+2001,2001,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-16.2
+2001,2001,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,12.3
+2001,2001,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2001,2001,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",81197
+2001,2001,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,2.6
+2001,2001,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2001,2001,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2002,2002,01,YDINVOIMA,arvogwh,"Määrä, GWh",21395
+2002,2002,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-2.1
+2002,2002,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.6
+2002,2002,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",29.9
+2002,2002,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",836
+2002,2002,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,37
+2002,2002,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1
+2002,2002,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.2
+2002,2002,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",11837
+2002,2002,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,19
+2002,2002,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,14.2
+2002,2002,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",16.5
+2002,2002,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",11274
+2002,2002,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,0.8
+2002,2002,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,13.5
+2002,2002,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",15.7
+2002,2002,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",715
+2002,2002,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-0.3
+2002,2002,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2002,2002,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2002,2002,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",24662
+2002,2002,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,9.8
+2002,2002,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,29.5
+2002,2002,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",34.4
+2002,2002,07,Turve,arvogwh,"Määrä, GWh",6142
+2002,2002,07,Turve,vv_muutos,Vuosimuutos %,6
+2002,2002,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,7.4
+2002,2002,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",8.6
+2002,2002,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",30804
+2002,2002,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,9
+2002,2002,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,36.9
+2002,2002,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",43
+2002,2002,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",10623
+2002,2002,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-18.4
+2002,2002,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,12.7
+2002,2002,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",14.8
+2002,2002,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",63
+2002,2002,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-10
+2002,2002,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2002,2002,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2002,2002,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2
+2002,2002,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2002,2002,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2002,2002,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2002,2002,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5140
+2002,2002,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,7.9
+2002,2002,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2002,2002,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.2
+2002,2002,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3174
+2002,2002,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,10.9
+2002,2002,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.8
+2002,2002,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.4
+2002,2002,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",172
+2002,2002,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-1.1
+2002,2002,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2002,2002,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2002,2002,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",8486
+2002,2002,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,8.8
+2002,2002,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.2
+2002,2002,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",11.8
+2002,2002,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",19174
+2002,2002,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-8.2
+2002,2002,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,22.9
+2002,2002,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",26.8
+2002,2002,17,Muut energialähteet,arvogwh,"Määrä, GWh",258
+2002,2002,17,Muut energialähteet,vv_muutos,Vuosimuutos %,5.7
+2002,2002,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2002,2002,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2002,2002,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",71631
+2002,2002,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,0.6
+2002,2002,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,85.7
+2002,2002,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2002,2002,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",11925
+2002,2002,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,19.7
+2002,2002,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,14.3
+2002,2002,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2002,2002,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",83556
+2002,2002,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,2.9
+2002,2002,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2002,2002,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2003,2003,01,YDINVOIMA,arvogwh,"Määrä, GWh",21830
+2003,2003,01,YDINVOIMA,vv_muutos,Vuosimuutos %,2
+2003,2003,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.6
+2003,2003,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",27.2
+2003,2003,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",910
+2003,2003,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,8.9
+2003,2003,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2003,2003,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.1
+2003,2003,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",17923
+2003,2003,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,51.4
+2003,2003,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,21
+2003,2003,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",22.3
+2003,2003,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",13435
+2003,2003,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,19.2
+2003,2003,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,15.8
+2003,2003,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",16.7
+2003,2003,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",728
+2003,2003,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,1.8
+2003,2003,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2003,2003,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2003,2003,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",32996
+2003,2003,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,33.8
+2003,2003,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,38.7
+2003,2003,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",41
+2003,2003,07,Turve,arvogwh,"Määrä, GWh",6831
+2003,2003,07,Turve,vv_muutos,Vuosimuutos %,11.2
+2003,2003,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,8
+2003,2003,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",8.5
+2003,2003,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",39827
+2003,2003,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,29.3
+2003,2003,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,46.7
+2003,2003,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",49.5
+2003,2003,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",9455
+2003,2003,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-11
+2003,2003,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,11.1
+2003,2003,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",11.8
+2003,2003,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",92
+2003,2003,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,46
+2003,2003,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2003,2003,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2003,2003,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2
+2003,2003,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2003,2003,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2003,2003,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2003,2003,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5255
+2003,2003,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,2.2
+2003,2003,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2003,2003,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.5
+2003,2003,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3354
+2003,2003,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,5.7
+2003,2003,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.9
+2003,2003,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.2
+2003,2003,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",219
+2003,2003,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,27.3
+2003,2003,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2003,2003,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2003,2003,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",8827
+2003,2003,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,4
+2003,2003,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.4
+2003,2003,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",11
+2003,2003,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",18376
+2003,2003,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-4.2
+2003,2003,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,21.6
+2003,2003,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",22.9
+2003,2003,17,Muut energialähteet,arvogwh,"Määrä, GWh",361
+2003,2003,17,Muut energialähteet,vv_muutos,Vuosimuutos %,39.9
+2003,2003,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2003,2003,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2003,2003,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",80395
+2003,2003,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,12.2
+2003,2003,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,94.3
+2003,2003,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2003,2003,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",4852
+2003,2003,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-59.3
+2003,2003,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,5.7
+2003,2003,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2003,2003,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",85247
+2003,2003,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,2
+2003,2003,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2003,2003,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2004,2004,01,YDINVOIMA,arvogwh,"Määrä, GWh",21814
+2004,2004,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-0.1
+2004,2004,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.1
+2004,2004,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",26.5
+2004,2004,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",568
+2004,2004,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-37.6
+2004,2004,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2004,2004,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2004,2004,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",15411
+2004,2004,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-14
+2004,2004,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,17.7
+2004,2004,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",18.8
+2004,2004,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",12371
+2004,2004,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-7.9
+2004,2004,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,14.2
+2004,2004,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",15.1
+2004,2004,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",698
+2004,2004,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-4.1
+2004,2004,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2004,2004,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2004,2004,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",29048
+2004,2004,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-12
+2004,2004,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,33.4
+2004,2004,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",35.3
+2004,2004,07,Turve,arvogwh,"Määrä, GWh",6120
+2004,2004,07,Turve,vv_muutos,Vuosimuutos %,-10.4
+2004,2004,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,7
+2004,2004,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",7.4
+2004,2004,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",35167
+2004,2004,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-11.7
+2004,2004,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,40.4
+2004,2004,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",42.8
+2004,2004,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",14865
+2004,2004,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,57.2
+2004,2004,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,17.1
+2004,2004,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.1
+2004,2004,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",120
+2004,2004,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,30.4
+2004,2004,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2004,2004,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2004,2004,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2
+2004,2004,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2004,2004,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2004,2004,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2004,2004,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5778
+2004,2004,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,10
+2004,2004,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.6
+2004,2004,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7
+2004,2004,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3815
+2004,2004,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,13.7
+2004,2004,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.4
+2004,2004,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.6
+2004,2004,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",259
+2004,2004,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,18.3
+2004,2004,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2004,2004,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2004,2004,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9852
+2004,2004,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,11.6
+2004,2004,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.3
+2004,2004,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",12
+2004,2004,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",24840
+2004,2004,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,35.2
+2004,2004,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,28.5
+2004,2004,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",30.2
+2004,2004,17,Muut energialähteet,arvogwh,"Määrä, GWh",366
+2004,2004,17,Muut energialähteet,vv_muutos,Vuosimuutos %,1.4
+2004,2004,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2004,2004,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2004,2004,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",82187
+2004,2004,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,2.2
+2004,2004,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,94.4
+2004,2004,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2004,2004,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",4870
+2004,2004,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,0.4
+2004,2004,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,5.6
+2004,2004,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2004,2004,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",87057
+2004,2004,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,2.1
+2004,2004,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2004,2004,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2005,2005,01,YDINVOIMA,arvogwh,"Määrä, GWh",22356
+2005,2005,01,YDINVOIMA,vv_muutos,Vuosimuutos %,2.5
+2005,2005,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26.4
+2005,2005,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33
+2005,2005,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",452
+2005,2005,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-20.4
+2005,2005,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2005,2005,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2005,2005,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",6069
+2005,2005,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-60.6
+2005,2005,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,7.2
+2005,2005,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",9
+2005,2005,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",10896
+2005,2005,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-11.9
+2005,2005,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.9
+2005,2005,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",16.1
+2005,2005,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",780
+2005,2005,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,11.7
+2005,2005,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2005,2005,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.2
+2005,2005,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",18197
+2005,2005,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-37.4
+2005,2005,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,21.5
+2005,2005,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",26.9
+2005,2005,07,Turve,arvogwh,"Määrä, GWh",4208
+2005,2005,07,Turve,vv_muutos,Vuosimuutos %,-31.2
+2005,2005,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,5
+2005,2005,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",6.2
+2005,2005,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",22405
+2005,2005,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-36.3
+2005,2005,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,26.5
+2005,2005,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.1
+2005,2005,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13428
+2005,2005,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-9.7
+2005,2005,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15.9
+2005,2005,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",19.8
+2005,2005,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",168
+2005,2005,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,40
+2005,2005,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2005,2005,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2005,2005,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3
+2005,2005,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,50
+2005,2005,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2005,2005,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2005,2005,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5060
+2005,2005,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-12.4
+2005,2005,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6
+2005,2005,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.5
+2005,2005,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3643
+2005,2005,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-4.5
+2005,2005,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.3
+2005,2005,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",5.4
+2005,2005,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",302
+2005,2005,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,16.6
+2005,2005,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2005,2005,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2005,2005,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9006
+2005,2005,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-8.6
+2005,2005,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.6
+2005,2005,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.3
+2005,2005,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",22605
+2005,2005,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-9
+2005,2005,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,26.7
+2005,2005,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.4
+2005,2005,17,Muut energialähteet,arvogwh,"Määrä, GWh",305
+2005,2005,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-16.7
+2005,2005,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2005,2005,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2005,2005,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",67670
+2005,2005,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-17.7
+2005,2005,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,79.9
+2005,2005,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2005,2005,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",17014
+2005,2005,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,249.4
+2005,2005,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,20.1
+2005,2005,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2005,2005,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",84684
+2005,2005,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-2.7
+2005,2005,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2005,2005,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2006,2006,01,YDINVOIMA,arvogwh,"Määrä, GWh",22004
+2006,2006,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-1.6
+2006,2006,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,24.4
+2006,2006,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",28
+2006,2006,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",439
+2006,2006,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-2.9
+2006,2006,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2006,2006,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2006,2006,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",15212
+2006,2006,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,150.7
+2006,2006,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,16.9
+2006,2006,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",19.3
+2006,2006,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",11941
+2006,2006,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,9.6
+2006,2006,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,13.3
+2006,2006,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",15.2
+2006,2006,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",758
+2006,2006,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-2.8
+2006,2006,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2006,2006,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2006,2006,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",28350
+2006,2006,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,55.8
+2006,2006,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,31.5
+2006,2006,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",36
+2006,2006,07,Turve,arvogwh,"Määrä, GWh",6209
+2006,2006,07,Turve,vv_muutos,Vuosimuutos %,47.6
+2006,2006,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,6.9
+2006,2006,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",7.9
+2006,2006,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",34559
+2006,2006,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,54.2
+2006,2006,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,38.4
+2006,2006,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",43.9
+2006,2006,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",11313
+2006,2006,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-15.8
+2006,2006,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,12.6
+2006,2006,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",14.4
+2006,2006,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",153
+2006,2006,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-8.9
+2006,2006,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2006,2006,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2006,2006,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3
+2006,2006,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2006,2006,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2006,2006,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2006,2006,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5901
+2006,2006,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,16.6
+2006,2006,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.6
+2006,2006,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.5
+2006,2006,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4056
+2006,2006,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,11.3
+2006,2006,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.5
+2006,2006,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",5.2
+2006,2006,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",263
+2006,2006,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-12.9
+2006,2006,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2006,2006,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2006,2006,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10219
+2006,2006,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,13.5
+2006,2006,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.3
+2006,2006,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13
+2006,2006,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",21688
+2006,2006,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-4.1
+2006,2006,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,24.1
+2006,2006,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",27.6
+2006,2006,17,Muut energialähteet,arvogwh,"Määrä, GWh",391
+2006,2006,17,Muut energialähteet,vv_muutos,Vuosimuutos %,28.2
+2006,2006,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2006,2006,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2006,2006,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",78641
+2006,2006,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,16.2
+2006,2006,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,87.3
+2006,2006,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2006,2006,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",11401
+2006,2006,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-33
+2006,2006,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,12.7
+2006,2006,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2006,2006,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",90042
+2006,2006,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,6.3
+2006,2006,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2006,2006,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2007,2007,01,YDINVOIMA,arvogwh,"Määrä, GWh",22501
+2007,2007,01,YDINVOIMA,vv_muutos,Vuosimuutos %,2.3
+2007,2007,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,24.9
+2007,2007,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",28.9
+2007,2007,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",431
+2007,2007,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-1.8
+2007,2007,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2007,2007,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2007,2007,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",12974
+2007,2007,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-14.7
+2007,2007,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,14.4
+2007,2007,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",16.7
+2007,2007,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",10250
+2007,2007,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-14.2
+2007,2007,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,11.3
+2007,2007,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",13.2
+2007,2007,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",802
+2007,2007,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,5.8
+2007,2007,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2007,2007,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2007,2007,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",24458
+2007,2007,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-13.7
+2007,2007,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,27.1
+2007,2007,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",31.4
+2007,2007,07,Turve,arvogwh,"Määrä, GWh",6925
+2007,2007,07,Turve,vv_muutos,Vuosimuutos %,11.5
+2007,2007,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,7.7
+2007,2007,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",8.9
+2007,2007,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",31382
+2007,2007,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-9.2
+2007,2007,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,34.7
+2007,2007,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",40.3
+2007,2007,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13991
+2007,2007,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,23.7
+2007,2007,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15.5
+2007,2007,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18
+2007,2007,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",188
+2007,2007,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,22.9
+2007,2007,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2007,2007,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2007,2007,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4
+2007,2007,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,33.3
+2007,2007,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2007,2007,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2007,2007,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5711
+2007,2007,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-3.2
+2007,2007,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.3
+2007,2007,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.3
+2007,2007,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3393
+2007,2007,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-16.3
+2007,2007,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.8
+2007,2007,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.4
+2007,2007,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",328
+2007,2007,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,24.7
+2007,2007,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2007,2007,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2007,2007,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9432
+2007,2007,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-7.7
+2007,2007,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.4
+2007,2007,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",12.1
+2007,2007,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",23614
+2007,2007,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,8.9
+2007,2007,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,26.1
+2007,2007,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",30.3
+2007,2007,17,Muut energialähteet,arvogwh,"Määrä, GWh",333
+2007,2007,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-14.8
+2007,2007,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2007,2007,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2007,2007,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",77831
+2007,2007,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-1
+2007,2007,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,86.1
+2007,2007,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2007,2007,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",12557
+2007,2007,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,10.1
+2007,2007,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,13.9
+2007,2007,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2007,2007,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",90388
+2007,2007,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,0.4
+2007,2007,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2007,2007,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2008,2008,01,YDINVOIMA,arvogwh,"Määrä, GWh",22050
+2008,2008,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-2
+2008,2008,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.3
+2008,2008,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",29.6
+2008,2008,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",617
+2008,2008,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,43.2
+2008,2008,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2008,2008,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2008,2008,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",7956
+2008,2008,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-38.7
+2008,2008,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,9.1
+2008,2008,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",10.7
+2008,2008,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",10722
+2008,2008,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,4.6
+2008,2008,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.3
+2008,2008,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",14.4
+2008,2008,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",753
+2008,2008,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-6.1
+2008,2008,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2008,2008,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2008,2008,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",20048
+2008,2008,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-18
+2008,2008,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,23
+2008,2008,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",26.9
+2008,2008,07,Turve,arvogwh,"Määrä, GWh",4929
+2008,2008,07,Turve,vv_muutos,Vuosimuutos %,-28.8
+2008,2008,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,5.6
+2008,2008,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",6.6
+2008,2008,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",24977
+2008,2008,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-20.4
+2008,2008,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,28.6
+2008,2008,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.5
+2008,2008,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",16909
+2008,2008,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,20.9
+2008,2008,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,19.4
+2008,2008,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",22.7
+2008,2008,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",261
+2008,2008,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,38.8
+2008,2008,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2008,2008,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2008,2008,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4
+2008,2008,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2008,2008,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2008,2008,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2008,2008,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5312
+2008,2008,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-7
+2008,2008,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.1
+2008,2008,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.1
+2008,2008,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4200
+2008,2008,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,23.8
+2008,2008,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.8
+2008,2008,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",5.6
+2008,2008,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",360
+2008,2008,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,9.8
+2008,2008,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2008,2008,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2008,2008,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9872
+2008,2008,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,4.7
+2008,2008,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.3
+2008,2008,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.3
+2008,2008,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",27046
+2008,2008,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,14.5
+2008,2008,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,31
+2008,2008,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",36.3
+2008,2008,17,Muut energialähteet,arvogwh,"Määrä, GWh",423
+2008,2008,17,Muut energialähteet,vv_muutos,Vuosimuutos %,27
+2008,2008,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2008,2008,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2008,2008,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",74495
+2008,2008,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-4.3
+2008,2008,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,85.4
+2008,2008,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2008,2008,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",12772
+2008,2008,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,1.7
+2008,2008,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,14.6
+2008,2008,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2008,2008,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",87267
+2008,2008,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-3.5
+2008,2008,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2008,2008,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2009,2009,01,YDINVOIMA,arvogwh,"Määrä, GWh",22601
+2009,2009,01,YDINVOIMA,vv_muutos,Vuosimuutos %,2.5
+2009,2009,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27.8
+2009,2009,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",32.6
+2009,2009,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",483
+2009,2009,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-21.7
+2009,2009,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.6
+2009,2009,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2009,2009,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",10408
+2009,2009,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,30.8
+2009,2009,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.8
+2009,2009,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",15
+2009,2009,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9572
+2009,2009,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-10.7
+2009,2009,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,11.8
+2009,2009,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",13.8
+2009,2009,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",587
+2009,2009,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-22
+2009,2009,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2009,2009,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2009,2009,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",21049
+2009,2009,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,5
+2009,2009,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,25.9
+2009,2009,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",30.4
+2009,2009,07,Turve,arvogwh,"Määrä, GWh",4124
+2009,2009,07,Turve,vv_muutos,Vuosimuutos %,-16.3
+2009,2009,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,5.1
+2009,2009,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",6
+2009,2009,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",25173
+2009,2009,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,0.8
+2009,2009,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,31
+2009,2009,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",36.4
+2009,2009,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",12573
+2009,2009,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-25.6
+2009,2009,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15.5
+2009,2009,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.2
+2009,2009,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",277
+2009,2009,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,6.1
+2009,2009,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2009,2009,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2009,2009,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4
+2009,2009,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2009,2009,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2009,2009,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2009,2009,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4287
+2009,2009,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-19.3
+2009,2009,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.3
+2009,2009,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.2
+2009,2009,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3612
+2009,2009,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-14
+2009,2009,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.4
+2009,2009,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",5.2
+2009,2009,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",375
+2009,2009,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,4.2
+2009,2009,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2009,2009,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2009,2009,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",8274
+2009,2009,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-16.2
+2009,2009,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.2
+2009,2009,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",12
+2009,2009,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",21128
+2009,2009,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-21.9
+2009,2009,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,26
+2009,2009,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",30.5
+2009,2009,17,Muut energialähteet,arvogwh,"Määrä, GWh",325
+2009,2009,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-23.2
+2009,2009,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2009,2009,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2009,2009,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",69226
+2009,2009,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-7.1
+2009,2009,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,85.1
+2009,2009,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2009,2009,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",12085
+2009,2009,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-5.4
+2009,2009,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,14.9
+2009,2009,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2009,2009,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",81311
+2009,2009,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-6.8
+2009,2009,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2009,2009,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2010,2010,01,YDINVOIMA,arvogwh,"Määrä, GWh",21889
+2010,2010,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-3.2
+2010,2010,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25
+2010,2010,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",28.3
+2010,2010,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",442
+2010,2010,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-8.5
+2010,2010,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2010,2010,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2010,2010,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",13573
+2010,2010,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,30.4
+2010,2010,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,15.5
+2010,2010,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",17.6
+2010,2010,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",10977
+2010,2010,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,14.7
+2010,2010,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,12.5
+2010,2010,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",14.2
+2010,2010,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",670
+2010,2010,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,14.1
+2010,2010,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2010,2010,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2010,2010,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",25663
+2010,2010,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,21.9
+2010,2010,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,29.3
+2010,2010,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.2
+2010,2010,07,Turve,arvogwh,"Määrä, GWh",5858
+2010,2010,07,Turve,vv_muutos,Vuosimuutos %,42
+2010,2010,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,6.7
+2010,2010,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",7.6
+2010,2010,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",31521
+2010,2010,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,25.2
+2010,2010,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,35.9
+2010,2010,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",40.8
+2010,2010,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",12743
+2010,2010,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,1.4
+2010,2010,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,14.5
+2010,2010,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",16.5
+2010,2010,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",294
+2010,2010,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,6.1
+2010,2010,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2010,2010,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2010,2010,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5
+2010,2010,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,25
+2010,2010,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2010,2010,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2010,2010,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5333
+2010,2010,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,24.4
+2010,2010,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.1
+2010,2010,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.9
+2010,2010,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4635
+2010,2010,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,28.3
+2010,2010,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.3
+2010,2010,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6
+2010,2010,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",431
+2010,2010,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,14.9
+2010,2010,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2010,2010,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2010,2010,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10400
+2010,2010,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,25.7
+2010,2010,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.9
+2010,2010,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.5
+2010,2010,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",23442
+2010,2010,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,11
+2010,2010,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,26.7
+2010,2010,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",30.4
+2010,2010,17,Muut energialähteet,arvogwh,"Määrä, GWh",373
+2010,2010,17,Muut energialähteet,vv_muutos,Vuosimuutos %,14.8
+2010,2010,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2010,2010,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2010,2010,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",77225
+2010,2010,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,11.6
+2010,2010,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,88
+2010,2010,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2010,2010,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",10501
+2010,2010,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-13.1
+2010,2010,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,12
+2010,2010,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2010,2010,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",87726
+2010,2010,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,7.9
+2010,2010,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2010,2010,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2011,2011,01,YDINVOIMA,arvogwh,"Määrä, GWh",22266
+2011,2011,01,YDINVOIMA,vv_muutos,Vuosimuutos %,1.7
+2011,2011,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26.4
+2011,2011,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",31.6
+2011,2011,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",381
+2011,2011,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-13.8
+2011,2011,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2011,2011,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2011,2011,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9134
+2011,2011,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-32.7
+2011,2011,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,10.8
+2011,2011,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",13
+2011,2011,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9202
+2011,2011,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-16.2
+2011,2011,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,10.9
+2011,2011,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",13.1
+2011,2011,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",617
+2011,2011,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-7.9
+2011,2011,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2011,2011,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2011,2011,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",19334
+2011,2011,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-24.7
+2011,2011,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,22.9
+2011,2011,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",27.5
+2011,2011,07,Turve,arvogwh,"Määrä, GWh",5058
+2011,2011,07,Turve,vv_muutos,Vuosimuutos %,-13.7
+2011,2011,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,6
+2011,2011,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",7.2
+2011,2011,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",24392
+2011,2011,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-22.6
+2011,2011,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,28.9
+2011,2011,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",34.6
+2011,2011,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",12278
+2011,2011,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-3.6
+2011,2011,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,14.6
+2011,2011,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",17.4
+2011,2011,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",481
+2011,2011,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,63.6
+2011,2011,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.6
+2011,2011,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2011,2011,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5
+2011,2011,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0
+2011,2011,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2011,2011,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2011,2011,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5067
+2011,2011,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-5
+2011,2011,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6
+2011,2011,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.2
+2011,2011,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5078
+2011,2011,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,9.6
+2011,2011,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6
+2011,2011,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.2
+2011,2011,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",443
+2011,2011,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,2.8
+2011,2011,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2011,2011,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2011,2011,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10588
+2011,2011,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,1.8
+2011,2011,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,12.6
+2011,2011,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",15
+2011,2011,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",23353
+2011,2011,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-0.4
+2011,2011,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,27.7
+2011,2011,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",33.2
+2011,2011,17,Muut energialähteet,arvogwh,"Määrä, GWh",410
+2011,2011,17,Muut energialähteet,vv_muutos,Vuosimuutos %,9.9
+2011,2011,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2011,2011,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2011,2011,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",70420
+2011,2011,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-8.8
+2011,2011,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,83.6
+2011,2011,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2011,2011,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",13851
+2011,2011,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,31.9
+2011,2011,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,16.4
+2011,2011,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2011,2011,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",84271
+2011,2011,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-3.9
+2011,2011,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2011,2011,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2012,2012,01,YDINVOIMA,arvogwh,"Määrä, GWh",22063
+2012,2012,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-0.9
+2012,2012,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.9
+2012,2012,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",32.6
+2012,2012,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",265
+2012,2012,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-30.4
+2012,2012,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2012,2012,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2012,2012,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",6663
+2012,2012,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-27.1
+2012,2012,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,7.8
+2012,2012,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",9.8
+2012,2012,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",6547
+2012,2012,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-28.9
+2012,2012,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,7.7
+2012,2012,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",9.7
+2012,2012,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",588
+2012,2012,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-4.7
+2012,2012,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2012,2012,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2012,2012,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",14063
+2012,2012,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-27.3
+2012,2012,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,16.5
+2012,2012,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",20.8
+2012,2012,07,Turve,arvogwh,"Määrä, GWh",3438
+2012,2012,07,Turve,vv_muutos,Vuosimuutos %,-32
+2012,2012,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,4
+2012,2012,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",5.1
+2012,2012,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",17501
+2012,2012,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-28.3
+2012,2012,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,20.6
+2012,2012,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",25.8
+2012,2012,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",16667
+2012,2012,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,35.7
+2012,2012,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,19.6
+2012,2012,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",24.6
+2012,2012,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",494
+2012,2012,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,2.7
+2012,2012,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.6
+2012,2012,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2012,2012,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6
+2012,2012,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,20
+2012,2012,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2012,2012,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2012,2012,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5064
+2012,2012,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-0.1
+2012,2012,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.9
+2012,2012,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.5
+2012,2012,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4990
+2012,2012,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-1.7
+2012,2012,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.9
+2012,2012,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.4
+2012,2012,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",492
+2012,2012,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,11.1
+2012,2012,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.6
+2012,2012,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2012,2012,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10546
+2012,2012,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-0.4
+2012,2012,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,12.4
+2012,2012,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",15.6
+2012,2012,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",27713
+2012,2012,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,18.7
+2012,2012,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,32.5
+2012,2012,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",40.9
+2012,2012,17,Muut energialähteet,arvogwh,"Määrä, GWh",436
+2012,2012,17,Muut energialähteet,vv_muutos,Vuosimuutos %,6.3
+2012,2012,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2012,2012,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2012,2012,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",67714
+2012,2012,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-3.8
+2012,2012,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,79.5
+2012,2012,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2012,2012,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",17443
+2012,2012,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,25.9
+2012,2012,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,20.5
+2012,2012,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2012,2012,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",85157
+2012,2012,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,1.1
+2012,2012,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2012,2012,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2013,2013,01,YDINVOIMA,arvogwh,"Määrä, GWh",22673
+2013,2013,01,YDINVOIMA,vv_muutos,Vuosimuutos %,2.8
+2013,2013,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27
+2013,2013,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33.2
+2013,2013,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",205
+2013,2013,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-22.6
+2013,2013,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2013,2013,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2013,2013,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",9997
+2013,2013,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,50
+2013,2013,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,11.9
+2013,2013,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",14.6
+2013,2013,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",6618
+2013,2013,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,1.1
+2013,2013,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,7.9
+2013,2013,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",9.7
+2013,2013,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",678
+2013,2013,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,15.3
+2013,2013,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2013,2013,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2013,2013,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",17498
+2013,2013,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,24.4
+2013,2013,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,20.8
+2013,2013,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",25.6
+2013,2013,07,Turve,arvogwh,"Määrä, GWh",2970
+2013,2013,07,Turve,vv_muutos,Vuosimuutos %,-13.6
+2013,2013,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.5
+2013,2013,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.3
+2013,2013,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",20469
+2013,2013,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,17
+2013,2013,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,24.3
+2013,2013,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",29.9
+2013,2013,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",12672
+2013,2013,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-24
+2013,2013,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15.1
+2013,2013,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.5
+2013,2013,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",774
+2013,2013,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,56.7
+2013,2013,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2013,2013,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.1
+2013,2013,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",7
+2013,2013,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,16.7
+2013,2013,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2013,2013,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2013,2013,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5457
+2013,2013,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,7.8
+2013,2013,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.5
+2013,2013,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8
+2013,2013,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5337
+2013,2013,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,7
+2013,2013,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.3
+2013,2013,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.8
+2013,2013,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",552
+2013,2013,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,12.2
+2013,2013,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2013,2013,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2013,2013,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",11346
+2013,2013,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,7.6
+2013,2013,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.5
+2013,2013,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.6
+2013,2013,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",24798
+2013,2013,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-10.5
+2013,2013,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,29.5
+2013,2013,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",36.3
+2013,2013,17,Muut energialähteet,arvogwh,"Määrä, GWh",414
+2013,2013,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-5
+2013,2013,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2013,2013,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2013,2013,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",68354
+2013,2013,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,0.9
+2013,2013,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,81.3
+2013,2013,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2013,2013,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",15715
+2013,2013,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-9.9
+2013,2013,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,18.7
+2013,2013,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2013,2013,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",84069
+2013,2013,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-1.3
+2013,2013,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2013,2013,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2014,2014,01,YDINVOIMA,arvogwh,"Määrä, GWh",22646
+2014,2014,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-0.1
+2014,2014,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27.1
+2014,2014,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",34.6
+2014,2014,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",201
+2014,2014,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-2
+2014,2014,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2014,2014,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2014,2014,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",7450
+2014,2014,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-25.5
+2014,2014,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,8.9
+2014,2014,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",11.4
+2014,2014,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",5386
+2014,2014,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-18.6
+2014,2014,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,6.5
+2014,2014,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",8.2
+2014,2014,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",683
+2014,2014,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,0.7
+2014,2014,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2014,2014,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2014,2014,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",13719
+2014,2014,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-21.6
+2014,2014,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,16.4
+2014,2014,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",21
+2014,2014,07,Turve,arvogwh,"Määrä, GWh",3194
+2014,2014,07,Turve,vv_muutos,Vuosimuutos %,7.5
+2014,2014,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.8
+2014,2014,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.9
+2014,2014,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",16913
+2014,2014,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-17.4
+2014,2014,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,20.3
+2014,2014,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",25.8
+2014,2014,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13240
+2014,2014,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,4.5
+2014,2014,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15.9
+2014,2014,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",20.2
+2014,2014,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",1107
+2014,2014,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,43
+2014,2014,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,1.3
+2014,2014,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.7
+2014,2014,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",8
+2014,2014,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,14.3
+2014,2014,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2014,2014,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2014,2014,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5338
+2014,2014,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-2.2
+2014,2014,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.4
+2014,2014,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.2
+2014,2014,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5188
+2014,2014,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-2.8
+2014,2014,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2014,2014,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.9
+2014,2014,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",596
+2014,2014,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,8
+2014,2014,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2014,2014,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2014,2014,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",11122
+2014,2014,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-2
+2014,2014,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.3
+2014,2014,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",17
+2014,2014,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",25477
+2014,2014,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,2.7
+2014,2014,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,30.5
+2014,2014,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",38.9
+2014,2014,17,Muut energialähteet,arvogwh,"Määrä, GWh",423
+2014,2014,17,Muut energialähteet,vv_muutos,Vuosimuutos %,2.2
+2014,2014,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2014,2014,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2014,2014,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",65459
+2014,2014,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-4.2
+2014,2014,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,78.5
+2014,2014,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2014,2014,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",17966
+2014,2014,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,14.3
+2014,2014,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,21.5
+2014,2014,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2014,2014,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",83425
+2014,2014,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-0.8
+2014,2014,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2014,2014,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2015,2015,01,YDINVOIMA,arvogwh,"Määrä, GWh",22326
+2015,2015,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-1.4
+2015,2015,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27.1
+2015,2015,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33.7
+2015,2015,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",187
+2015,2015,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-7
+2015,2015,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2015,2015,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2015,2015,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",4821
+2015,2015,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-35.3
+2015,2015,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,5.8
+2015,2015,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",7.3
+2015,2015,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",5086
+2015,2015,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-5.6
+2015,2015,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2015,2015,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",7.7
+2015,2015,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",860
+2015,2015,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,25.9
+2015,2015,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1
+2015,2015,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.3
+2015,2015,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10954
+2015,2015,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-20.2
+2015,2015,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.3
+2015,2015,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.6
+2015,2015,07,Turve,arvogwh,"Määrä, GWh",2895
+2015,2015,07,Turve,vv_muutos,Vuosimuutos %,-9.4
+2015,2015,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.5
+2015,2015,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.4
+2015,2015,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",13849
+2015,2015,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-18.1
+2015,2015,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,16.8
+2015,2015,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",20.9
+2015,2015,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",16584
+2015,2015,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,25.3
+2015,2015,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,20.1
+2015,2015,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",25.1
+2015,2015,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",2327
+2015,2015,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,110.2
+2015,2015,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,2.8
+2015,2015,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",3.5
+2015,2015,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",11
+2015,2015,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,37.5
+2015,2015,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2015,2015,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2015,2015,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5442
+2015,2015,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,1.9
+2015,2015,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.6
+2015,2015,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.2
+2015,2015,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4682
+2015,2015,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-9.8
+2015,2015,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.7
+2015,2015,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.1
+2015,2015,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",627
+2015,2015,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,5.2
+2015,2015,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2015,2015,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2015,2015,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10752
+2015,2015,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-3.3
+2015,2015,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13
+2015,2015,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.3
+2015,2015,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",29675
+2015,2015,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,16.5
+2015,2015,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,36
+2015,2015,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",44.9
+2015,2015,17,Muut energialähteet,arvogwh,"Määrä, GWh",307
+2015,2015,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-27.4
+2015,2015,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2015,2015,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2015,2015,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",66156
+2015,2015,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,1.1
+2015,2015,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,80.2
+2015,2015,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2015,2015,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",16337
+2015,2015,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-9.1
+2015,2015,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,19.8
+2015,2015,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2015,2015,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",82493
+2015,2015,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-1.1
+2015,2015,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2015,2015,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2016,2016,01,YDINVOIMA,arvogwh,"Määrä, GWh",22280
+2016,2016,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-0.2
+2016,2016,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26.2
+2016,2016,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33.7
+2016,2016,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",168
+2016,2016,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-10.2
+2016,2016,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2016,2016,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2016,2016,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",6552
+2016,2016,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,35.9
+2016,2016,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,7.7
+2016,2016,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",9.9
+2016,2016,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3643
+2016,2016,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-28.4
+2016,2016,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.3
+2016,2016,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",5.5
+2016,2016,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",912
+2016,2016,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,6
+2016,2016,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2016,2016,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2016,2016,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",11275
+2016,2016,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,2.9
+2016,2016,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.2
+2016,2016,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",17
+2016,2016,07,Turve,arvogwh,"Määrä, GWh",2731
+2016,2016,07,Turve,vv_muutos,Vuosimuutos %,-5.7
+2016,2016,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.2
+2016,2016,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.1
+2016,2016,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",14006
+2016,2016,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,1.1
+2016,2016,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,16.4
+2016,2016,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",21.2
+2016,2016,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",15634
+2016,2016,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-5.7
+2016,2016,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,18.4
+2016,2016,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",23.6
+2016,2016,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",3068
+2016,2016,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,31.8
+2016,2016,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,3.6
+2016,2016,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",4.6
+2016,2016,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",22
+2016,2016,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,100
+2016,2016,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0
+2016,2016,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0
+2016,2016,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5366
+2016,2016,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-1.4
+2016,2016,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.3
+2016,2016,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.1
+2016,2016,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4817
+2016,2016,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,2.9
+2016,2016,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.7
+2016,2016,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.3
+2016,2016,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",669
+2016,2016,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,6.7
+2016,2016,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2016,2016,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1
+2016,2016,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10851
+2016,2016,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,0.9
+2016,2016,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,12.7
+2016,2016,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.4
+2016,2016,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",29576
+2016,2016,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-0.3
+2016,2016,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,34.7
+2016,2016,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",44.7
+2016,2016,17,Muut energialähteet,arvogwh,"Määrä, GWh",342
+2016,2016,17,Muut energialähteet,vv_muutos,Vuosimuutos %,11.4
+2016,2016,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2016,2016,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.5
+2016,2016,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",66204
+2016,2016,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,0.1
+2016,2016,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,77.7
+2016,2016,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2016,2016,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",18951
+2016,2016,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,16
+2016,2016,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,22.3
+2016,2016,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2016,2016,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",85155
+2016,2016,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,3.2
+2016,2016,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2016,2016,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2017,2017,01,YDINVOIMA,arvogwh,"Määrä, GWh",21574
+2017,2017,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-3.2
+2017,2017,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25.2
+2017,2017,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33.2
+2017,2017,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",158
+2017,2017,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-6
+2017,2017,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2017,2017,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2017,2017,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",5531
+2017,2017,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-15.6
+2017,2017,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,6.5
+2017,2017,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",8.5
+2017,2017,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3221
+2017,2017,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-11.6
+2017,2017,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,3.8
+2017,2017,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",5
+2017,2017,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",893
+2017,2017,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-2.1
+2017,2017,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1
+2017,2017,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2017,2017,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9802
+2017,2017,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-13.1
+2017,2017,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.5
+2017,2017,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",15.1
+2017,2017,07,Turve,arvogwh,"Määrä, GWh",2602
+2017,2017,07,Turve,vv_muutos,Vuosimuutos %,-4.7
+2017,2017,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3
+2017,2017,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4
+2017,2017,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",12404
+2017,2017,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-11.4
+2017,2017,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,14.5
+2017,2017,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",19.1
+2017,2017,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",14610
+2017,2017,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-6.5
+2017,2017,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,17.1
+2017,2017,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",22.5
+2017,2017,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4795
+2017,2017,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,56.3
+2017,2017,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.6
+2017,2017,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.4
+2017,2017,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",49
+2017,2017,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,122.7
+2017,2017,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2017,2017,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2017,2017,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5678
+2017,2017,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,5.8
+2017,2017,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.6
+2017,2017,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.7
+2017,2017,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4858
+2017,2017,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0.9
+2017,2017,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.7
+2017,2017,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.5
+2017,2017,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",706
+2017,2017,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,5.5
+2017,2017,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2017,2017,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.1
+2017,2017,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",11241
+2017,2017,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,3.6
+2017,2017,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.2
+2017,2017,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",17.3
+2017,2017,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",30695
+2017,2017,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,3.8
+2017,2017,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,35.9
+2017,2017,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",47.2
+2017,2017,17,Muut energialähteet,arvogwh,"Määrä, GWh",368
+2017,2017,17,Muut energialähteet,vv_muutos,Vuosimuutos %,7.6
+2017,2017,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.4
+2017,2017,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2017,2017,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",65042
+2017,2017,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-1.8
+2017,2017,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,76.1
+2017,2017,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2017,2017,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",20426
+2017,2017,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,7.8
+2017,2017,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,23.9
+2017,2017,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2017,2017,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",85467
+2017,2017,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,0.4
+2017,2017,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2017,2017,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2018,2018,01,YDINVOIMA,arvogwh,"Määrä, GWh",21881
+2018,2018,01,YDINVOIMA,vv_muutos,Vuosimuutos %,1.4
+2018,2018,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,25
+2018,2018,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",32.4
+2018,2018,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",229
+2018,2018,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,44.9
+2018,2018,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2018,2018,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2018,2018,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",5441
+2018,2018,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-1.6
+2018,2018,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2018,2018,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",8.1
+2018,2018,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",4088
+2018,2018,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,26.9
+2018,2018,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.7
+2018,2018,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",6.1
+2018,2018,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",1118
+2018,2018,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,25.2
+2018,2018,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.3
+2018,2018,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.7
+2018,2018,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10876
+2018,2018,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,11
+2018,2018,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,12.4
+2018,2018,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.1
+2018,2018,07,Turve,arvogwh,"Määrä, GWh",3250
+2018,2018,07,Turve,vv_muutos,Vuosimuutos %,24.9
+2018,2018,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.7
+2018,2018,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.8
+2018,2018,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",14126
+2018,2018,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,13.9
+2018,2018,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,16.2
+2018,2018,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",20.9
+2018,2018,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13137
+2018,2018,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-10.1
+2018,2018,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,15
+2018,2018,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",19.5
+2018,2018,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5839
+2018,2018,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,21.8
+2018,2018,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.7
+2018,2018,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.6
+2018,2018,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",90
+2018,2018,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,83.7
+2018,2018,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.1
+2018,2018,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.1
+2018,2018,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6502
+2018,2018,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,14.5
+2018,2018,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7.4
+2018,2018,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",9.6
+2018,2018,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4887
+2018,2018,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,0.6
+2018,2018,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.6
+2018,2018,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.2
+2018,2018,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",795
+2018,2018,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,12.6
+2018,2018,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2018,2018,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.2
+2018,2018,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",12184
+2018,2018,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,8.4
+2018,2018,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.9
+2018,2018,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",18
+2018,2018,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",31250
+2018,2018,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,1.8
+2018,2018,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,35.7
+2018,2018,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",46.3
+2018,2018,17,Muut energialähteet,arvogwh,"Määrä, GWh",274
+2018,2018,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-25.5
+2018,2018,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2018,2018,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2018,2018,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",67532
+2018,2018,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,3.8
+2018,2018,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,77.2
+2018,2018,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2018,2018,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",19936
+2018,2018,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-2.4
+2018,2018,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,22.8
+2018,2018,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2018,2018,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",87467
+2018,2018,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,2.3
+2018,2018,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2018,2018,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2019,2019,01,YDINVOIMA,arvogwh,"Määrä, GWh",22915
+2019,2019,01,YDINVOIMA,vv_muutos,Vuosimuutos %,4.7
+2019,2019,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26.6
+2019,2019,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",34.7
+2019,2019,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",267
+2019,2019,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,16.6
+2019,2019,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2019,2019,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2019,2019,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",4115
+2019,2019,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-24.4
+2019,2019,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.8
+2019,2019,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",6.2
+2019,2019,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3767
+2019,2019,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-7.9
+2019,2019,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.4
+2019,2019,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",5.7
+2019,2019,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",947
+2019,2019,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-15.3
+2019,2019,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2019,2019,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2019,2019,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9096
+2019,2019,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-16.4
+2019,2019,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.6
+2019,2019,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.8
+2019,2019,07,Turve,arvogwh,"Määrä, GWh",2821
+2019,2019,07,Turve,vv_muutos,Vuosimuutos %,-13.2
+2019,2019,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,3.3
+2019,2019,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",4.3
+2019,2019,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",11918
+2019,2019,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-15.6
+2019,2019,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.8
+2019,2019,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",18
+2019,2019,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",12246
+2019,2019,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-6.8
+2019,2019,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,14.2
+2019,2019,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.5
+2019,2019,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6025
+2019,2019,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,3.2
+2019,2019,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7
+2019,2019,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",9.1
+2019,2019,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",147
+2019,2019,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,63.3
+2019,2019,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2019,2019,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2019,2019,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6750
+2019,2019,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,3.8
+2019,2019,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7.8
+2019,2019,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",10.2
+2019,2019,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5060
+2019,2019,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,3.5
+2019,2019,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.9
+2019,2019,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",7.7
+2019,2019,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",732
+2019,2019,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-7.9
+2019,2019,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2019,2019,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.1
+2019,2019,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",12542
+2019,2019,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,2.9
+2019,2019,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,14.6
+2019,2019,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",19
+2019,2019,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",30960
+2019,2019,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-0.9
+2019,2019,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,36
+2019,2019,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",46.9
+2019,2019,17,Muut energialähteet,arvogwh,"Määrä, GWh",258
+2019,2019,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-5.8
+2019,2019,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2019,2019,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2019,2019,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",66051
+2019,2019,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-2.2
+2019,2019,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,76.7
+2019,2019,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2019,2019,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",20042
+2019,2019,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,0.5
+2019,2019,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,23.3
+2019,2019,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2019,2019,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",86092
+2019,2019,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-1.6
+2019,2019,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2019,2019,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2020,2020,01,YDINVOIMA,arvogwh,"Määrä, GWh",22354
+2020,2020,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-2.4
+2020,2020,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,27.4
+2020,2020,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",33.6
+2020,2020,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",174
+2020,2020,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-34.8
+2020,2020,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2020,2020,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2020,2020,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",2303
+2020,2020,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-44
+2020,2020,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,2.8
+2020,2020,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",3.5
+2020,2020,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3901
+2020,2020,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,3.6
+2020,2020,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.8
+2020,2020,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",5.9
+2020,2020,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",900
+2020,2020,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-5
+2020,2020,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2020,2020,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2020,2020,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",7278
+2020,2020,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-20
+2020,2020,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,8.9
+2020,2020,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",10.9
+2020,2020,07,Turve,arvogwh,"Määrä, GWh",1998
+2020,2020,07,Turve,vv_muutos,Vuosimuutos %,-29.2
+2020,2020,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,2.4
+2020,2020,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",3
+2020,2020,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",9276
+2020,2020,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-22.2
+2020,2020,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.4
+2020,2020,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.9
+2020,2020,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",15669
+2020,2020,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,28
+2020,2020,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,19.2
+2020,2020,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",23.5
+2020,2020,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",7938
+2020,2020,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,31.8
+2020,2020,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,9.7
+2020,2020,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",11.9
+2020,2020,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",218
+2020,2020,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,48.3
+2020,2020,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2020,2020,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2020,2020,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6021
+2020,2020,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-10.8
+2020,2020,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7.4
+2020,2020,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",9
+2020,2020,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4285
+2020,2020,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-15.3
+2020,2020,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,5.2
+2020,2020,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.4
+2020,2020,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",617
+2020,2020,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-15.7
+2020,2020,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2020,2020,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2020,2020,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10924
+2020,2020,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-12.9
+2020,2020,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.4
+2020,2020,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",16.4
+2020,2020,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",34750
+2020,2020,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,12.2
+2020,2020,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,42.5
+2020,2020,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",52.2
+2020,2020,17,Muut energialähteet,arvogwh,"Määrä, GWh",216
+2020,2020,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-16.3
+2020,2020,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2020,2020,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2020,2020,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",66596
+2020,2020,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,0.8
+2020,2020,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,81.5
+2020,2020,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2020,2020,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",15105
+2020,2020,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-24.6
+2020,2020,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,18.5
+2020,2020,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2020,2020,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",81701
+2020,2020,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-5.1
+2020,2020,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2020,2020,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2021,2021,01,YDINVOIMA,arvogwh,"Määrä, GWh",22646
+2021,2021,01,YDINVOIMA,vv_muutos,Vuosimuutos %,1.3
+2021,2021,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,26
+2021,2021,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",32.7
+2021,2021,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",151
+2021,2021,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-13.2
+2021,2021,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2021,2021,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2021,2021,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",2523
+2021,2021,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,9.6
+2021,2021,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,2.9
+2021,2021,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",3.6
+2021,2021,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3732
+2021,2021,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-4.3
+2021,2021,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4.3
+2021,2021,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",5.4
+2021,2021,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",1165
+2021,2021,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,29.4
+2021,2021,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.3
+2021,2021,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.7
+2021,2021,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",7572
+2021,2021,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,4
+2021,2021,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,8.7
+2021,2021,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",10.9
+2021,2021,07,Turve,arvogwh,"Määrä, GWh",1952
+2021,2021,07,Turve,vv_muutos,Vuosimuutos %,-2.3
+2021,2021,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,2.2
+2021,2021,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",2.8
+2021,2021,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",9524
+2021,2021,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,2.7
+2021,2021,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,10.9
+2021,2021,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.7
+2021,2021,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",15624
+2021,2021,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-0.3
+2021,2021,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,17.9
+2021,2021,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",22.5
+2021,2021,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",8180
+2021,2021,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,3
+2021,2021,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,9.4
+2021,2021,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",11.8
+2021,2021,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",298
+2021,2021,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,36.7
+2021,2021,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2021,2021,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2021,2021,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",6298
+2021,2021,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,4.6
+2021,2021,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7.2
+2021,2021,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",9.1
+2021,2021,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5841
+2021,2021,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,36.3
+2021,2021,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.7
+2021,2021,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.4
+2021,2021,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",671
+2021,2021,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,8.8
+2021,2021,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2021,2021,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1
+2021,2021,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",12809
+2021,2021,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,17.3
+2021,2021,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,14.7
+2021,2021,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",18.5
+2021,2021,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",36910
+2021,2021,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,6.2
+2021,2021,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,42.4
+2021,2021,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",53.2
+2021,2021,17,Muut energialähteet,arvogwh,"Määrä, GWh",244
+2021,2021,17,Muut energialähteet,vv_muutos,Vuosimuutos %,13
+2021,2021,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2021,2021,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.4
+2021,2021,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",69324
+2021,2021,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,4.1
+2021,2021,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,79.6
+2021,2021,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2021,2021,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",17768
+2021,2021,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,17.6
+2021,2021,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,20.4
+2021,2021,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2021,2021,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",87092
+2021,2021,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,6.6
+2021,2021,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2021,2021,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2022,2022,01,YDINVOIMA,arvogwh,"Määrä, GWh",24242
+2022,2022,01,YDINVOIMA,vv_muutos,Vuosimuutos %,7
+2022,2022,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,29.7
+2022,2022,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",35.1
+2022,2022,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",224
+2022,2022,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,48.3
+2022,2022,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2022,2022,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2022,2022,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",3252
+2022,2022,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,28.9
+2022,2022,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,4
+2022,2022,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",4.7
+2022,2022,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",913
+2022,2022,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-75.5
+2022,2022,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2022,2022,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.3
+2022,2022,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",958
+2022,2022,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-17.8
+2022,2022,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.2
+2022,2022,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2022,2022,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",5347
+2022,2022,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-29.4
+2022,2022,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,6.5
+2022,2022,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",7.7
+2022,2022,07,Turve,arvogwh,"Määrä, GWh",2012
+2022,2022,07,Turve,vv_muutos,Vuosimuutos %,3.1
+2022,2022,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,2.5
+2022,2022,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",2.9
+2022,2022,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",7360
+2022,2022,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-22.7
+2022,2022,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,9
+2022,2022,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",10.6
+2022,2022,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",13337
+2022,2022,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-14.6
+2022,2022,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,16.3
+2022,2022,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",19.3
+2022,2022,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",11560
+2022,2022,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,41.3
+2022,2022,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,14.2
+2022,2022,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",16.7
+2022,2022,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",392
+2022,2022,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,31.5
+2022,2022,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.5
+2022,2022,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.6
+2022,2022,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5651
+2022,2022,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-10.3
+2022,2022,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.9
+2022,2022,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.2
+2022,2022,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5705
+2022,2022,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-2.3
+2022,2022,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,7
+2022,2022,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",8.3
+2022,2022,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",667
+2022,2022,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-0.6
+2022,2022,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2022,2022,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1
+2022,2022,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",12023
+2022,2022,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-6.1
+2022,2022,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,14.7
+2022,2022,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",17.4
+2022,2022,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",37312
+2022,2022,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,1.1
+2022,2022,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,45.7
+2022,2022,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",54
+2022,2022,17,Muut energialähteet,arvogwh,"Määrä, GWh",229
+2022,2022,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-6.1
+2022,2022,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2022,2022,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2022,2022,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",69142
+2022,2022,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,-0.3
+2022,2022,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,84.7
+2022,2022,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2022,2022,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",12517
+2022,2022,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-29.6
+2022,2022,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,15.3
+2022,2022,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2022,2022,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",81660
+2022,2022,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-6.2
+2022,2022,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2022,2022,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2023,2023,01,YDINVOIMA,arvogwh,"Määrä, GWh",32759
+2023,2023,01,YDINVOIMA,vv_muutos,Vuosimuutos %,35.1
+2023,2023,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,40.9
+2023,2023,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",41.8
+2023,2023,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",203
+2023,2023,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-9.4
+2023,2023,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2023,2023,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2023,2023,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",1478
+2023,2023,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-54.6
+2023,2023,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.8
+2023,2023,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.9
+2023,2023,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",629
+2023,2023,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-31.1
+2023,2023,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2023,2023,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.8
+2023,2023,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",1009
+2023,2023,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,5.3
+2023,2023,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.3
+2023,2023,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.3
+2023,2023,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",3319
+2023,2023,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-37.9
+2023,2023,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,4.1
+2023,2023,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",4.2
+2023,2023,07,Turve,arvogwh,"Määrä, GWh",1068
+2023,2023,07,Turve,vv_muutos,Vuosimuutos %,-46.9
+2023,2023,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,1.3
+2023,2023,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",1.4
+2023,2023,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",4387
+2023,2023,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-40.4
+2023,2023,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,5.5
+2023,2023,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",5.6
+2023,2023,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",15026
+2023,2023,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,12.7
+2023,2023,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,18.8
+2023,2023,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",19.2
+2023,2023,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",14465
+2023,2023,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,25.1
+2023,2023,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,18.1
+2023,2023,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",18.5
+2023,2023,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",716
+2023,2023,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,82.7
+2023,2023,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2023,2023,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2023,2023,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5382
+2023,2023,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-4.8
+2023,2023,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.7
+2023,2023,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.9
+2023,2023,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4814
+2023,2023,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-15.6
+2023,2023,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6
+2023,2023,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.1
+2023,2023,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",523
+2023,2023,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-21.6
+2023,2023,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2023,2023,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2023,2023,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",10719
+2023,2023,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-10.8
+2023,2023,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,13.4
+2023,2023,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",13.7
+2023,2023,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",40926
+2023,2023,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,9.7
+2023,2023,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,51.2
+2023,2023,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",52.3
+2023,2023,17,Muut energialähteet,arvogwh,"Määrä, GWh",210
+2023,2023,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-8.3
+2023,2023,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2023,2023,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2023,2023,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",78283
+2023,2023,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,13.2
+2023,2023,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,97.8
+2023,2023,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2023,2023,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",1724
+2023,2023,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,-86.2
+2023,2023,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,2.2
+2023,2023,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2023,2023,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",80007
+2023,2023,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,-2
+2023,2023,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2023,2023,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
+2024,2024,01,YDINVOIMA,arvogwh,"Määrä, GWh",31128
+2024,2024,01,YDINVOIMA,vv_muutos,Vuosimuutos %,-5
+2024,2024,01,YDINVOIMA,osuuskk,Osuus kokonaiskulutuksesta %,37.5
+2024,2024,01,YDINVOIMA,osuuskt,"Osuus kokonaistuotannosta, %",39
+2024,2024,02,Öljy (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",214
+2024,2024,02,Öljy (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,5.4
+2024,2024,02,Öljy (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.3
+2024,2024,02,Öljy (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.3
+2024,2024,03,Kivihiili (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",787
+2024,2024,03,Kivihiili (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-46.8
+2024,2024,03,Kivihiili (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2024,2024,03,Kivihiili (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1
+2024,2024,04,Maakaasu (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",748
+2024,2024,04,Maakaasu (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,18.9
+2024,2024,04,Maakaasu (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,0.9
+2024,2024,04,Maakaasu (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2024,2024,05,Muut fossiiliset (Fossiilinen polttoaine),arvogwh,"Määrä, GWh",974
+2024,2024,05,Muut fossiiliset (Fossiilinen polttoaine),vv_muutos,Vuosimuutos %,-3.5
+2024,2024,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskk,Osuus kokonaiskulutuksesta %,1.2
+2024,2024,05,Muut fossiiliset (Fossiilinen polttoaine),osuuskt,"Osuus kokonaistuotannosta, %",1.2
+2024,2024,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",2723
+2024,2024,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-18
+2024,2024,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,3.3
+2024,2024,06,FOSSIILISET POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",3.4
+2024,2024,07,Turve,arvogwh,"Määrä, GWh",685
+2024,2024,07,Turve,vv_muutos,Vuosimuutos %,-35.9
+2024,2024,07,Turve,osuuskk,Osuus kokonaiskulutuksesta %,0.8
+2024,2024,07,Turve,osuuskt,"Osuus kokonaistuotannosta, %",0.9
+2024,2024,08,FOSSIILISET JA TURVE YHTEENSÄ,arvogwh,"Määrä, GWh",3408
+2024,2024,08,FOSSIILISET JA TURVE YHTEENSÄ,vv_muutos,Vuosimuutos %,-22.3
+2024,2024,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,4.1
+2024,2024,08,FOSSIILISET JA TURVE YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",4.3
+2024,2024,09,Vesivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",14132
+2024,2024,09,Vesivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-5.9
+2024,2024,09,Vesivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,17
+2024,2024,09,Vesivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",17.7
+2024,2024,10,Tuulivoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",20237
+2024,2024,10,Tuulivoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,39.9
+2024,2024,10,Tuulivoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,24.4
+2024,2024,10,Tuulivoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",25.3
+2024,2024,11,Aurinkovoima (Uusiutuva energialähde),arvogwh,"Määrä, GWh",938
+2024,2024,11,Aurinkovoima (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,31
+2024,2024,11,Aurinkovoima (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,1.1
+2024,2024,11,Aurinkovoima (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",1.2
+2024,2024,12,Mustalipeä (Uusiutuva energialähde),arvogwh,"Määrä, GWh",5181
+2024,2024,12,Mustalipeä (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-3.7
+2024,2024,12,Mustalipeä (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,6.2
+2024,2024,12,Mustalipeä (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",6.5
+2024,2024,13,Muut puupolttoaineet (Uusiutuva energialähde),arvogwh,"Määrä, GWh",4100
+2024,2024,13,Muut puupolttoaineet (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,-14.8
+2024,2024,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,4.9
+2024,2024,13,Muut puupolttoaineet (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",5.1
+2024,2024,14,Muut uusiutuvat (Uusiutuva energialähde),arvogwh,"Määrä, GWh",553
+2024,2024,14,Muut uusiutuvat (Uusiutuva energialähde),vv_muutos,Vuosimuutos %,5.7
+2024,2024,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskk,Osuus kokonaiskulutuksesta %,0.7
+2024,2024,14,Muut uusiutuvat (Uusiutuva energialähde),osuuskt,"Osuus kokonaistuotannosta, %",0.7
+2024,2024,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,arvogwh,"Määrä, GWh",9834
+2024,2024,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,vv_muutos,Vuosimuutos %,-8.3
+2024,2024,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,11.8
+2024,2024,15,UUSIUTUVAT POLTTOAINEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",12.3
+2024,2024,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,arvogwh,"Määrä, GWh",45141
+2024,2024,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,vv_muutos,Vuosimuutos %,10.3
+2024,2024,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,54.4
+2024,2024,16,UUSIUTUVAT ENERGIALÄHTEET YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",56.5
+2024,2024,17,Muut energialähteet,arvogwh,"Määrä, GWh",195
+2024,2024,17,Muut energialähteet,vv_muutos,Vuosimuutos %,-7.1
+2024,2024,17,Muut energialähteet,osuuskk,Osuus kokonaiskulutuksesta %,0.2
+2024,2024,17,Muut energialähteet,osuuskt,"Osuus kokonaistuotannosta, %",0.2
+2024,2024,18,SÄHKÖN TUOTANTO YHTEENSÄ,arvogwh,"Määrä, GWh",79872
+2024,2024,18,SÄHKÖN TUOTANTO YHTEENSÄ,vv_muutos,Vuosimuutos %,2
+2024,2024,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskk,Osuus kokonaiskulutuksesta %,96.2
+2024,2024,18,SÄHKÖN TUOTANTO YHTEENSÄ,osuuskt,"Osuus kokonaistuotannosta, %",100
+2024,2024,19,Sähkön nettotuonti,arvogwh,"Määrä, GWh",3181
+2024,2024,19,Sähkön nettotuonti,vv_muutos,Vuosimuutos %,84.5
+2024,2024,19,Sähkön nettotuonti,osuuskk,Osuus kokonaiskulutuksesta %,3.8
+2024,2024,19,Sähkön nettotuonti,osuuskt,"Osuus kokonaistuotannosta, %",
+2024,2024,20,SÄHKÖN KOKONAISKULUTUS,arvogwh,"Määrä, GWh",83053
+2024,2024,20,SÄHKÖN KOKONAISKULUTUS,vv_muutos,Vuosimuutos %,3.8
+2024,2024,20,SÄHKÖN KOKONAISKULUTUS,osuuskk,Osuus kokonaiskulutuksesta %,100
+2024,2024,20,SÄHKÖN KOKONAISKULUTUS,osuuskt,"Osuus kokonaistuotannosta, %",
