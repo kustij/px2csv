@@ -2,6 +2,7 @@
 
 #include <pybind11/pybind11.h>
 #include <pybind11/iostream.h>
+#include <sstream>
 #include "px2csv.h"
 
 namespace py = pybind11;
