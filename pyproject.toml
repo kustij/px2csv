@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "px2csv"
 version = "0.1.0"
 description = "PX file converter with Azure Blob streaming support"
-requires-python = ">=3.7"
+requires-python = ">=3.11"
 license = { text = "MIT" }
 authors = [{ name = "Your Name", email = "your@email.com" }]
 keywords = ["px", "pybind11", "azure", "blob", "converter"]
