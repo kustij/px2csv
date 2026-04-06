@@ -4,6 +4,12 @@ Convert PX (PC-Axis) files to CSV fast and memory-efficiently in Python.
 
 We currently support only UTF-8 encoded PX files.
 
+### Install from PyPI
+
+```python
+pip install px2csv
+```
+
 ### Convert using file paths
 
 ```python
