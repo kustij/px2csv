@@ -1,5 +1,12 @@
 from setuptools import setup, Extension
 import pybind11
+import sys
+
+extra_compile_args = ["-O3"]
+if sys.platform == "win32":
+    extra_compile_args.append("/std:c++17")
+else:
+    extra_compile_args.append("-std=c++17")
 
 ext_modules = [
     Extension(
@@ -10,7 +17,7 @@ ext_modules = [
             "src",
         ],
         language="c++",
-        extra_compile_args=["-O3", "-std=c++17"],
+        extra_compile_args=extra_compile_args,
     ),
 ]
 
