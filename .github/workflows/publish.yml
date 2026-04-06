@@ -35,7 +35,7 @@ jobs:
           path: wheelhouse/*.whl
 
   publish:
-    name: Publish to PyPI (Trusted Publishing)
+    name: Publish to PyPI
     needs: build_wheels
     runs-on: ubuntu-latest
     environment:
