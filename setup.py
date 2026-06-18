@@ -2,11 +2,13 @@ from setuptools import setup, Extension
 import pybind11
 import sys
 
-extra_compile_args = ["-O3"]
 if sys.platform == "win32":
-    extra_compile_args.append("/std:c++17")
+    # /O2: optimize for speed  /GL: whole-program opt off (avoids slow LTCG link)
+    extra_compile_args = ["/O2", "/std:c++17"]
+    extra_link_args = []
 else:
-    extra_compile_args.append("-std=c++17")
+    extra_compile_args = ["-O3", "-std=c++17"]
+    extra_link_args = []
 
 ext_modules = [
     Extension(
@@ -18,6 +20,7 @@ ext_modules = [
         ],
         language="c++",
         extra_compile_args=extra_compile_args,
+        extra_link_args=extra_link_args,
     ),
 ]
 
