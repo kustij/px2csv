@@ -49,13 +49,6 @@ inline std::vector<std::string_view> split_quoted_list_sv(std::string_view input
 }
 
 // Split quoted list (returns std::string)
-inline std::vector<std::string> split_quoted_list(const std::string &input)
-{
-    std::vector<std::string> out;
-    for (auto sv : split_quoted_list_sv(input))
-        out.emplace_back(sv);
-    return out;
-}
 inline std::vector<std::string> split_quoted_list(std::string_view input)
 {
     std::vector<std::string> out;

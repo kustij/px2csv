@@ -14,7 +14,20 @@ pip install px2csv
 
 ```python
 from px2csv import convert
-convert("examples/sample.px", "examples/sample.csv", include_codes=True, include_labels=True)
+convert("examples/12b4.px", "examples/12b4.csv", include_codes=True, include_labels=True)
+```
+
+For large sparse PX files, skip missing values and avoid repeated label columns:
+
+```python
+from px2csv import convert
+convert(
+	"examples/132g.px",
+	"examples/132g.csv",
+	include_codes=True,
+	include_labels=False,
+	skip_empty=True,
+)
 ```
 
 ### Convert using file-like objects (streams)
@@ -22,6 +35,6 @@ convert("examples/sample.px", "examples/sample.csv", include_codes=True, include
 ```python
 import io
 from px2csv import convert
-with open("examples/sample.px", "rb") as fin, open("examples/sample.csv", "wb") as fout:
+with open("examples/12b4.px", "rb") as fin, open("examples/12b4.csv", "wb") as fout:
 	convert(fin, fout, include_codes=True, include_labels=True)
 ```

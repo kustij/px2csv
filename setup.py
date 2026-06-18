@@ -22,10 +22,6 @@ ext_modules = [
 ]
 
 setup(
-    name="px2csv",
-    version="0.1.0",
-    description="Convert PX files to CSV",
-    packages=["px2csv"],
     ext_modules=ext_modules,
     zip_safe=False,
 )

@@ -4,8 +4,30 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "px2csv"
-version = "1.0.0"
+version = "1.0.1"
 description = "Fast and memory-efficient PX to CSV converter"
+readme = "README.md"
 requires-python = ">=3.11"
-license = { text = "MIT" }
+license = "MIT"
 authors = [{ name = "Kusti Aholainen" }]
+keywords = ["px", "pc-axis", "csv", "statistics"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: C++",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Topic :: Text Processing :: Filters",
+]
+
+[project.urls]
+Homepage = "https://github.com/kustij/pxconvert"
+Repository = "https://github.com/kustij/pxconvert"
+
+[tool.setuptools]
+packages = ["px2csv"]
