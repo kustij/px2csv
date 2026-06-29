@@ -44,9 +44,6 @@ jobs:
         env:
           CIBW_BUILD: "cp${{ matrix.python }}-*"
           CIBW_CACHE_PATH: ~/.cache/cibuildwheel
-          # uv builds the isolated build environment far faster than pip, which
-          # is where most of the per-version build time is spent.
-          CIBW_BUILD_FRONTEND: "build[uv]"
       - name: Upload wheels as artifact
         uses: actions/upload-artifact@v4
         with:
